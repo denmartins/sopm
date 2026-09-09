@@ -1,0 +1,70 @@
+# SOPM — interface + LLM local, tudo em containers.
+#
+#   docker compose up --build      sobe Ollama, baixa o modelo e abre a interface
+#   http://localhost:8501
+#
+# Ajustes opcionais ficam em .env (veja .env.example).
+
+services:
+  # Servidor LLM local, compatível com a API da OpenAI em /v1.
+  ollama:
+    image: ollama/ollama:latest
+    container_name: sopm-ollama
+    volumes:
+      - ollama-models:/root/.ollama
+    ports:
+      # Exposto para inspeção/uso fora do compose; a app fala pela rede interna.
+      - "${OLLAMA_PORT:-11434}:11434"
+    healthcheck:
+      test: ["CMD", "ollama", "list"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+      start_period: 20s
+    restart: unless-stopped
+    # --- GPU NVIDIA (opcional) ---
+    # Descomente se a máquina tiver GPU + NVIDIA Container Toolkit instalado.
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: all
+    #           capabilities: [gpu]
+
+  # Serviço de uso único: baixa o modelo e encerra.
+  ollama-pull:
+    image: ollama/ollama:latest
+    container_name: sopm-ollama-pull
+    depends_on:
+      ollama:
+        condition: service_healthy
+    environment:
+      OLLAMA_HOST: "http://ollama:11434"
+    entrypoint: ["/bin/sh", "-c", "ollama pull ${OLLAMA_MODEL:-qwen3}"]
+    restart: "no"
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: sopm-interface:latest
+    container_name: sopm-app
+    depends_on:
+      ollama:
+        condition: service_healthy
+    environment:
+      # Preenchem os campos correspondentes na barra lateral da interface.
+      OLLAMA_BASE_URL: "http://ollama:11434/v1"
+      OLLAMA_MODEL: "${OLLAMA_MODEL:-qwen3}"
+      SOPM_DATA_CSV: "${SOPM_DATA_CSV:-ag_news_prompts.csv}"
+    ports:
+      - "${APP_PORT:-8501}:8501"
+    volumes:
+      # Cache de embeddings e SOMs treinados sobrevivem a rebuilds do container.
+      - sopm-artifacts:/app/artifacts
+    restart: unless-stopped
+
+volumes:
+  ollama-models:
+  sopm-artifacts:

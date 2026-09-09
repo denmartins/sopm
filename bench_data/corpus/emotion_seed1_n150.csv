@@ -1,0 +1,181 @@
+id,prompt_name,input,target
+0,reply_with_emoation_label,i feel super good. What is the emotion expressed in this message?,joy
+1,answer_question_with_emotion_label,i am trying to work on finding the joy in the simple thing that god is finding joy in my obedience to him even if it doesn t feel very joyful in the way that i am used to. How will you feel about the message?,joy
+2,select_emotion_label_from_list,"'Given the message: i feel like im gonna be so greedy with him cuz i just love him so much. 
+
+Out of the options, sadness, joy, love, anger, fear and surprise, 
+
+the emotion in the message is",anger
+3,choose_the_best_emotion_label,i didn t feel like getting shaken down by the tsa quite yet so i pulled off to the side at creative croissants for a lunch. The emotion expressed for the message is,fear
+4,choose_the_best_emotion_label,i feel very relaxed playing with carl clarke says. The emotion expressed for the message is,joy
+5,predict_the_best_emotion_label,i forget that im supposed to be sad about being single or stressed about work and just smile and feel peaceful. What emotion does the writer express for the message?,joy
+6,select_emotion_label_from_list,"'Given the message: i am sure the vast majority of decent working class people feel insulted about being derided as unable to be respectful towards referees and are the parents who watch their child s match shouting abuse and swearing etc. 
+
+Out of the options, sadness, joy, love, anger, fear and surprise, 
+
+the emotion in the message is",anger
+7,predict_the_best_emotion_label,i feel like i am abandoning him in a way but he is so supportive of the move. What emotion does the writer express for the message?,love
+8,answer_question_with_emotion_label,i expect and hope the greater id feel disappointed. How will you feel about the message?,sadness
+9,choose_the_best_emotion_label,i feel a little pained but that will probably pass the last illusions of childhood. The emotion expressed for the message is,sadness
+10,predict_the_best_emotion_label,i do have good days and bad days but the bad days are awful resulting in constant trips to the bathroom a lot of pain bloat and discomfort lots of blood and just feeling completely exhausted and rundown. What emotion does the writer express for the message?,sadness
+11,answer_with_class_label,What emotion does the following message express? i know intellectually that it s not true but i feel entirely isolated,sadness
+12,answer_with_class_label,What emotion does the following message express? i had a feeling going into this book that its a little too well loved to be orthodox,joy
+13,select_emotion_label_from_list,"'Given the message: i feel hesitant to share something i know and have experienced personally that can offer hope amp eternal life. 
+
+Out of the options, sadness, joy, love, anger, fear and surprise, 
+
+the emotion in the message is",fear
+14,predict_the_best_emotion_label,i feel so regretful for things i cannot remember because i was so drunk. What emotion does the writer express for the message?,sadness
+15,reply_with_emoation_label,i feel bashful under his teasing scrutiny. What is the emotion expressed in this message?,fear
+16,answer_with_class_label,What emotion does the following message express? i feel a remembrance of the strange by justin aryiku falls into the latter category,fear
+17,answer_with_class_label,What emotion does the following message express? i was feeling bad over it with every passing minute,sadness
+18,predict_the_best_emotion_label,i feel more content with what i have achieved and i know if i don t write today there ll still be a tomorrow. What emotion does the writer express for the message?,joy
+19,reply_with_emoation_label,i feel writing to sell to pander to popular taste just to make money is a sucker s game. What is the emotion expressed in this message?,joy
+20,answer_question_with_emotion_label,ive slowed down i take time to listen to my child and be in the moment and not feel like i need to immediately update my status on fb about the cute thing she did. How will you feel about the message?,joy
+21,answer_question_with_emotion_label,i had it in my head as it relates to the workplace because i had just been irritable to someone a tiny bit lower in status than myself in response to someone who is higher than me making me feel momentarily pressured. How will you feel about the message?,fear
+22,select_emotion_label_from_list,"'Given the message: i feel accepted there said panorma who is from indonesia. 
+
+Out of the options, sadness, joy, love, anger, fear and surprise, 
+
+the emotion in the message is",love
+23,choose_the_best_emotion_label,i feel guilty to my family my friends who made the introduction for me to that job and somehow i even feel guilty to my boss even though he fooled and lied to me. The emotion expressed for the message is,sadness
+24,answer_with_class_label,What emotion does the following message express? i was using it to vent out ugly feelings and be vicious and nasty rather then deal with them like an adult,anger
+25,select_emotion_label_from_list,"'Given the message: i thought that was the end of it but a few minutes ago i got off the couch and felt so hot and sore and soft yknow when you have a fever how your body just feels really tender. 
+
+Out of the options, sadness, joy, love, anger, fear and surprise, 
+
+the emotion in the message is",love
+26,reply_with_emoation_label,i don t want to tell people how my first was with you and how you made me feel i don t want to think that you re the most gorgeous guy i ve ever seen and i love how other people disagree because i don t want them to see how truly wonderful you are to me. What is the emotion expressed in this message?,joy
+27,answer_question_with_emotion_label,i feel so sorry for californians. How will you feel about the message?,sadness
+28,reply_with_emoation_label,i didnt even have time to feel jealous i was so busy pinning her pictures and writing down a href http nanashi. What is the emotion expressed in this message?,anger
+29,select_emotion_label_from_list,"'Given the message: i feel it is my solemn duty to share this divine knowledge of mine in order that others may benefit from it s truth and beauty and render their world just a tad closer to thearchitecturality that utopian perfectly set garage society to which we all strive. 
+
+Out of the options, sadness, joy, love, anger, fear and surprise, 
+
+the emotion in the message is",joy
+30,choose_the_best_emotion_label,i point these things out so as to make clear that i went into this film with the best intentions but left feeling irritated confused and wore out. The emotion expressed for the message is,anger
+31,reply_with_emoation_label,i feel so dirty so unamerican so french. What is the emotion expressed in this message?,sadness
+32,answer_question_with_emotion_label,i feel exceptionally lucky to visit suzanna whose life here is pretty damn idyllic at least from the perspective of a vacationer breezing in for a week. How will you feel about the message?,joy
+33,answer_with_class_label,What emotion does the following message express? i have been feeling is any indication on this childs personality then i am petrified,fear
+34,reply_with_emoation_label,i am feeling emotional about something or other positive or otherwise. What is the emotion expressed in this message?,sadness
+35,choose_the_best_emotion_label,i have also learned it takes a lot of effort and positive thinking for me not to break down in tears over feeling exhausted and guilty for not being a better mom. The emotion expressed for the message is,sadness
+36,choose_the_best_emotion_label,i just focus on my sermon itself and think about all of the research and writing and practicing that lies ahead of me i feel burdened. The emotion expressed for the message is,sadness
+37,answer_with_class_label,What emotion does the following message express? ive never owned a mac have always used microsoft and just feel disillusioned with the way theyve managed this roll out all the glitches things not working and overall that vista has been out for months and it is only now that it is starting to become stable thanks to update after update,sadness
+38,answer_with_class_label,What emotion does the following message express? i have the dried bladders all ready for a day im feeling brave,joy
+39,reply_with_emoation_label,i starred into susan s gaping cum filled ring i could feel my own cock hardening in the vain hope of fucking this goddess myself but that would have to wait another day. What is the emotion expressed in this message?,sadness
+40,predict_the_best_emotion_label,i have given said friend space distance talked to friend about problems given friend more space and now i am left with a sour friendship that will never be what it was and a feeling of being ignored. What emotion does the writer express for the message?,sadness
+41,answer_question_with_emotion_label,i think what i m going to do is care less about anything that doesn t matter and won t make me feel successful in life. How will you feel about the message?,joy
+42,answer_question_with_emotion_label,i feel sad and discouraged. How will you feel about the message?,sadness
+43,answer_question_with_emotion_label,im feeling very petty right now. How will you feel about the message?,anger
+44,select_emotion_label_from_list,"'Given the message: i feel like i dont have anything worthwhile to blog about so im continuing to blog about things that i used to when i wasnt married. 
+
+Out of the options, sadness, joy, love, anger, fear and surprise, 
+
+the emotion in the message is",joy
+45,predict_the_best_emotion_label,i feel so vulnerable and yet so protective over her. What emotion does the writer express for the message?,fear
+46,answer_with_class_label,What emotion does the following message express? i had pocket qq and was feeling pretty confident lol,joy
+47,answer_question_with_emotion_label,i am planning for at the beginning of this year and feeling only a little smug about it. How will you feel about the message?,joy
+48,answer_question_with_emotion_label,i feel ok and go out into the world to work buy food or just go for a walk. How will you feel about the message?,joy
+49,reply_with_emoation_label,i want to exhibit all new pieces which is kinda making things a bit more stressful but i know id feel somewhat dissatisfied about showing old work. What is the emotion expressed in this message?,anger
+50,answer_with_class_label,What emotion does the following message express? i feel very blessed to have a new team of doctors that are by my side and listen,love
+51,predict_the_best_emotion_label,i feel like things are getting a little overwhelming a few spritz of this toner really helps calm and soothe me. What emotion does the writer express for the message?,joy
+52,predict_the_best_emotion_label,i sigh and say im tired and feeling very needy. What emotion does the writer express for the message?,sadness
+53,reply_with_emoation_label,i can feel that the two girls are shocked with what i m saying. What is the emotion expressed in this message?,surprise
+54,select_emotion_label_from_list,"'Given the message: i don t want anyone to feel inhibited if their bodies are not typical ballet bodies. 
+
+Out of the options, sadness, joy, love, anger, fear and surprise, 
+
+the emotion in the message is",fear
+55,answer_question_with_emotion_label,i was feeling as if i am in the lap of the divine mother and she is holding me in her soft and tender arms. How will you feel about the message?,joy
+56,choose_the_best_emotion_label,i was yelling to the group in front and not getting an answer and getting increasingly concerned and feeling increasingly frustrated with those lagging behind despite repeated explanations and pleas from me regarding the need to catch up with the advance group. The emotion expressed for the message is,anger
+57,predict_the_best_emotion_label,im already beholding myself not to be indulged into high intensity of feeling homesick but i think i just did. What emotion does the writer express for the message?,sadness
+58,predict_the_best_emotion_label,i feel a bit stressed because it feels like im supposed to do something all the time and that i should be reading now. What emotion does the writer express for the message?,anger
+59,reply_with_emoation_label,i love the way he talks sometimes i feel shy when i was inside him. What is the emotion expressed in this message?,fear
+60,choose_the_best_emotion_label,im typing all of these im blowing my nose and feeling extremely cranky. The emotion expressed for the message is,anger
+61,answer_question_with_emotion_label,a group of youngsters dressed in fads talked foul language on a bus they also insulted the pedestrians on the road and were impolite to the passengers of the bus. How will you feel about the message?,anger
+62,choose_the_best_emotion_label,i just feel that as my reader and loyal subscriber you need to be informed about how great butterfly marketing really is and not be taken for a ride so i can bank some chunky commissions. The emotion expressed for the message is,love
+63,predict_the_best_emotion_label,i feel like its about supporting something that you believe in. What emotion does the writer express for the message?,love
+64,reply_with_emoation_label,i remember feeling surprised and stunned that a writer of the stature and quality of lauren had read one of my books long ago. What is the emotion expressed in this message?,surprise
+65,answer_with_class_label,What emotion does the following message express? i slow a bit to stay with him partly because i am feeling like if i start to win he will just give up and partly because i am afraid that if i push it he will kill himself trying to stay with me,fear
+66,choose_the_best_emotion_label,i sit here tonight i feel anxious. The emotion expressed for the message is,fear
+67,choose_the_best_emotion_label,i like moving with a long lead time and not feeling rushed. The emotion expressed for the message is,anger
+68,select_emotion_label_from_list,"'Given the message: i feel as defeated as i did today i wonder if im doing this parenting thing all wrong. 
+
+Out of the options, sadness, joy, love, anger, fear and surprise, 
+
+the emotion in the message is",sadness
+69,answer_with_class_label,What emotion does the following message express? i feel like being distracted,anger
+70,choose_the_best_emotion_label,i can feel it weighing on me filling my thoughts as i try to do homework or help out at special olympics. The emotion expressed for the message is,joy
+71,choose_the_best_emotion_label,i feel the need to turn to my beloved nations. The emotion expressed for the message is,joy
+72,reply_with_emoation_label,i want to feel like i m important. What is the emotion expressed in this message?,joy
+73,predict_the_best_emotion_label,i feel like this will be an amazing series and will be epic in the movie theater. What emotion does the writer express for the message?,joy
+74,answer_question_with_emotion_label,i feel unsure of my footing. How will you feel about the message?,fear
+75,select_emotion_label_from_list,"'Given the message: i wasnt going to post anything about his death because i made me feel mad and shitty. 
+
+Out of the options, sadness, joy, love, anger, fear and surprise, 
+
+the emotion in the message is",anger
+76,reply_with_emoation_label,i kinda feel like i dont ever want to write again until i can make a character more beloved than harry potter because otherwise what is my story going to be to anyone. What is the emotion expressed in this message?,joy
+77,answer_with_class_label,What emotion does the following message express? im home i can feel how the cold has seeped into my arms and legs,anger
+78,predict_the_best_emotion_label,i didn t feel like doing much chris and i mostly just took too many pictures of unimportant stuff. What emotion does the writer express for the message?,sadness
+79,predict_the_best_emotion_label,i am merely a man who will feel humiliated whenever i am intimidated by you. What emotion does the writer express for the message?,sadness
+80,choose_the_best_emotion_label,i hate that feeling cus thats really bitchy to want someone to break up with their girlfriend so theyd be with you. The emotion expressed for the message is,anger
+81,predict_the_best_emotion_label,i am going to be a little selective about who i let read just for privacys sake but if you can relate to me why you want to read and if i feel your motivations are safe and okay then i will send you an invite. What emotion does the writer express for the message?,joy
+82,reply_with_emoation_label,i feel less valued cause i dont look good. What is the emotion expressed in this message?,joy
+83,reply_with_emoation_label,i i feel as though we were more successful here. What is the emotion expressed in this message?,joy
+84,answer_question_with_emotion_label,while cycling in the country. How will you feel about the message?,fear
+85,predict_the_best_emotion_label,i feel like i cant afford to be afraid to show that i am sometimes weak to allow others to see me as anything less than the strong wife and mom that i feel i am. What emotion does the writer express for the message?,fear
+86,select_emotion_label_from_list,"'Given the message: ill be glad when shes all better cuz keeping ollie from fighting with her while shes feeling playful is quite a job. 
+
+Out of the options, sadness, joy, love, anger, fear and surprise, 
+
+the emotion in the message is",joy
+87,select_emotion_label_from_list,"'Given the message: i arrived home hot sweaty and feeling a keen need for the chinese food i d put aside that morning. 
+
+Out of the options, sadness, joy, love, anger, fear and surprise, 
+
+the emotion in the message is",joy
+88,reply_with_emoation_label,when i was attacked by a teenage boy and had my wallet stolen. What is the emotion expressed in this message?,fear
+89,select_emotion_label_from_list,"'Given the message: i also wouldnt mind a canon d mark iii if anyone is feeling generous. 
+
+Out of the options, sadness, joy, love, anger, fear and surprise, 
+
+the emotion in the message is",joy
+90,choose_the_best_emotion_label,i feel like this leads me to be not as gentle and kind as i should be. The emotion expressed for the message is,love
+91,answer_with_class_label,What emotion does the following message express? i then had my watch from am this morning but was feeling just fine so did an additional hour so my dad could rest a little longer,joy
+92,answer_with_class_label,What emotion does the following message express? i feel neglectful and while at her reception i grazed her arm as i walked by and she pulled me back and said where are you going youre way more imporant than those people but i was stoned and full of champagne and could only tell her she was beautiful and that he seemed nice,sadness
+93,answer_question_with_emotion_label,i was feeling doubtful and sad about the relationship i have with this man. How will you feel about the message?,fear
+94,answer_question_with_emotion_label,i want to feel valued i do and appreciated i do and know the people who love me arent going anywhere even if the nature of the relationship changes. How will you feel about the message?,joy
+95,reply_with_emoation_label,i tell the people closest to me things that i am feeling and its as if they arent surprised because theyd known it all along. What is the emotion expressed in this message?,surprise
+96,answer_with_class_label,What emotion does the following message express? i am feeling like a generous and kind krem ill even show ye how tget the album,joy
+97,answer_with_class_label,What emotion does the following message express? i reckon this is fair enough yes the queen is their monarch but they are so geographically removed from her and her presence that i appreciate that many australians may feel more loyal to their country and own communities than to the queen herself,love
+98,predict_the_best_emotion_label,i only feel irritated by it. What emotion does the writer express for the message?,anger
+99,predict_the_best_emotion_label,i care about someones emotional spiritual and intellectual progress to the point where i feel like i should exert myself in that progress and its important to me that is love. What emotion does the writer express for the message?,joy
+100,select_emotion_label_from_list,"'Given the message: i suppose its only natural to squeeze every half hour out of the last five days to spend the time with family making memories and with friends promising more but it feels like someone elses life in a numb way. 
+
+Out of the options, sadness, joy, love, anger, fear and surprise, 
+
+the emotion in the message is",sadness
+101,answer_question_with_emotion_label,i was a feeling a bit low a few weeks back and i just focused on all the things that werent right in my life at the moment the requests that i had made that hadnt been granted. How will you feel about the message?,sadness
+102,answer_question_with_emotion_label,i feel as if her call was not a sincere apology. How will you feel about the message?,joy
+103,choose_the_best_emotion_label,i definetly need both as i have been feeling quite lethargic. The emotion expressed for the message is,sadness
+104,predict_the_best_emotion_label,im starting to feel like you my faithful reader are my wife or something ie the one i bitch to while everyone else gets to see the better angel of my nature haha. What emotion does the writer express for the message?,love
+105,reply_with_emoation_label,im not going to lie some days i feel uber supportive and other days i feel uber frustrated. What is the emotion expressed in this message?,love
+106,reply_with_emoation_label,i barely even feel like explaining the weird history of shadow dancer the not really console port of the arcade sequel to shinobi even though there was already a console sequel to shinobi thats a totally different game the revenge of shinobi. What is the emotion expressed in this message?,surprise
+107,reply_with_emoation_label,i want to feel affectionate. What is the emotion expressed in this message?,love
+108,reply_with_emoation_label,im skipping floors one and four because theyre two of the most conventional feeling and quite frankly boring maps in the game for me. What is the emotion expressed in this message?,sadness
+109,select_emotion_label_from_list,"'Given the message: i was reading through my old messages from knight and feeling very sentimental so i texted him back. 
+
+Out of the options, sadness, joy, love, anger, fear and surprise, 
+
+the emotion in the message is",sadness
+110,choose_the_best_emotion_label,i suppose most of my writing emerges out of some feeling of emotional urgency so there is usually a sense of darkness. The emotion expressed for the message is,sadness
+111,choose_the_best_emotion_label,i feel crazily indecisive impulsive just in a. The emotion expressed for the message is,fear
+112,choose_the_best_emotion_label,i am in no way complaining or whining or feeling ungrateful. The emotion expressed for the message is,sadness
+113,answer_question_with_emotion_label,i feel glad to be teaching nursery children who have special needs and know that the study of art has better helped me to use art in the curriculum to make lessons more enjoyable and interesting for the pupils. How will you feel about the message?,joy
+114,reply_with_emoation_label,i do my best at making sure my husband feels loved important and cared for with my whole heart. What is the emotion expressed in this message?,love
+115,predict_the_best_emotion_label,i did feel reluctant to keep on going and drew focalors sigil with a black opium incense stick on a wall by grabbing the wooden part and pulling the incense part back slightly and allowing it to smack to wall leaving a black powder line and meditated. What emotion does the writer express for the message?,fear
+116,answer_question_with_emotion_label,i was feeling pretty gloomy when i started writing this it s that dreaded time of year of course i burnt the nd set of cake pops that i was baking and i just lost a game of monopoly that game sucks. How will you feel about the message?,sadness
+117,predict_the_best_emotion_label,i also feel that seeing how the body reacts is an important step into changing the behavior. What emotion does the writer express for the message?,joy
+118,answer_question_with_emotion_label,i feel lonely i remember my moms saying. How will you feel about the message?,sadness
+119,answer_question_with_emotion_label,im so full of life i feel appalled. How will you feel about the message?,anger

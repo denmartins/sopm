@@ -1,0 +1,27 @@
+# Runtime dependencies for the SOPM Streamlit interface (sopmInterface.py).
+# Versions are pinned to the ones validated in the project's local venv (Python 3.9).
+#
+# NOTE: torch is installed separately in the Dockerfile from the CPU-only index
+# to avoid pulling ~2GB of CUDA wheels. If you install this file outside Docker,
+# install torch==2.8.0 first.
+
+# --- App / UI ---
+streamlit==1.50.0
+plotly==6.5.0
+watchdog==6.0.0
+protobuf==6.33.2
+
+# --- Data ---
+numpy==2.0.2
+pandas==2.3.3
+
+# --- SOM + embeddings ---
+MiniSom==2.3.5
+sentence-transformers==5.1.2
+transformers==4.57.3
+scikit-learn==1.6.1
+scipy==1.13.1
+
+# --- LLM client (Ollama via OpenAI-compatible API) ---
+openai==2.15.0
+requests==2.32.5

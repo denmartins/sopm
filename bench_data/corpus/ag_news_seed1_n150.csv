@@ -1,0 +1,293 @@
+id,prompt_name,input,target
+0,classify,"Nigerian Rebels to Widen Conflict, Target Agip  LAGOS (Reuters) - Nigerian rebels fighting government  troops in the southern Port Harcourt area are poised to launch  an uprising across the entire oil-producing delta region to  force political reforms or gain sovereignty, a rebel leader  said on Sunday. 
+What label best describes this news article?",World
+1,which_section_choices,"West sets deadline for Iran to freeze uranium enrichment Four western countries set the scene yesterday for a showdown with Iran by demanding that it freeze its uranium enrichment activities immediately. 
+
+Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business, or Science and Technology?",World
+2,which_section_choices,"Bush Offers Sympathy at Russian Embassy (AP) AP - President Bush made an unexpected visit to the Russian Embassy on Sunday where he signed a book of condolences for victims of the school hostage seizure and expressed outrage at the actions of ""evil terrorists."" 
+
+Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business, or Science and Technology?",World
+3,classify_with_choices,"Cavaliers, Hokies Play Host Akron at No. 12 Virginia &lt;br&gt;   Where:  Scott Stadium, Charlottesville&lt;br&gt;   When:  3 p.m.    Radio:  WTNT-570    Tickets:  Sold out &lt;br&gt;   Another Top QB:  Like North Carolina's Darian Durant last week, Akron quarterback Charlie Frye is the key to his team's slim chances of upsetting the Cavaliers. The 6-foot-4 senior, likened by Virginia Coach Al Groh to recent ACC stars Matt Schaub and Philip Rivers, ranks fourth among active NCAA quarterbacks with 9,048 career passing yards. In losses the past two weeks to Penn State and Middle Tennessee, Frye completed 60 of 80 passes for 622 yards. Weather permitting, he will present a challenge for an inexperienced Virginia secondary that made a few too many errors in deep coverage in its first two games. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",Sports
+4,classify_with_choices_question_first,"Is this a piece of news regarding world politics, sports, business, or science and technology?
+Toxic Algae Bloom Seen Off Washington State Coast An unusually large toxic bloom of algae, which could poison humans and taint shellfish, has been detected in the ocean off the northwest coast of Washington state, oceanographers said on Wednesday.",Sci/Tech
+5,classify,"Bin Laden Still At Large 3 Years After US Attacks The US-led anti-terrorism coalition is still hunting terror mastermind Osama bin Laden, the chief suspect in the September 11, 2001 deadly attacks on US cities. 
+What label best describes this news article?",World
+6,which_section,"Over 80 hurt on first day of Bangladesh strike (Reuters) Reuters - Opposition activists in Bangladesh attacked railway stations and battled police across the country on Tuesday on the first day of a two-day strike called to protest against a deadly grenade attack at the weekend. 
+
+Which section of a newspaper would this article likely appear in?",World
+7,which_section,"Orton Engineers Purdue Victory Over Illinois The Illinois rushing offense and the Purdue passing offense dueled in the Big Ten opener for both schools on Saturday at Memorial Stadium in Champaign. 
+
+Which section of a newspaper would this article likely appear in?",Sports
+8,which_section,"Chelsea lay down the law on drugs as Mutu is shown door CHELSEA enforced a zero tolerance policy against drugs yesterday when they dismissed Adrian Mutu, the Romania striker, for gross misconduct after his positive test for cocaine. 
+
+Which section of a newspaper would this article likely appear in?",Sports
+9,which_section,"Bush Web Site Bars Overseas Visitors (washingtonpost.com) washingtonpost.com - The Bush-Cheney reelection campaign has barred people outside the United States from viewing its Web site following an electronic attack that took down the campaign's Internet address for six hours last week, according\\to computer security experts. 
+
+Which section of a newspaper would this article likely appear in?",Sci/Tech
+10,which_section_choices,"Headset Maker Plantronics Surfs on Games Wave  MILAN (Reuters) - Blockbuster video games and cheap  Internet phone calls are boosting demand for Plantronics'  &lt;A HREF=""http://www.reuters.co.uk/financeQuoteLookup.jhtml?ticker=PLT.N qtype=sym infotype=info qcat=news""&gt;PLT.N&lt;/A&gt; headsets, the chief executive of the world's leading  maker of phone headsets said on Wednesday. 
+
+Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business, or Science and Technology?",Sci/Tech
+11,classify,"Computer Assoc. Cuts 800 Jobs Worldwide (AP) AP - Computer Associates International Inc. announced a restructuring plan Wednesday that would reduce its work force by 800 people worldwide, saving the business software maker  #36;70 million annually once the plan is fully implemented. 
+What label best describes this news article?",Sci/Tech
+12,classify_question_first,"What label best describes this news article?
+US manufacturing activity picks up, construction surges to record &lt;b&gt;...&lt;/b&gt; US manufacturing activity remained strong in September and construction spending surged to a record high in August, according to a pair of reports issued Friday that provided an optimistic look at the sturdiness of the economy.",Business
+13,classify_with_choices,"Black to Sue Hollinger Committee for C\$1.1 Bln Fallen press baron Conrad Black will sue Hollinger International Inc. #39;s special committee and others for C\$1.1 billion (\$870 million) over a report that accused him of looting the company of millions of dollars. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",Business
+14,classify,"Icahn pushes harder to stop Mylan #39;s King acquisition PITTSBURGH Carl Icahn, the largest shareholder of Mylan Laboratories, is now threatening to push for new company directors to stop the generic drug maker #39;s four (B) billion-dollar takeover bid of King Pharmaceuticals. 
+What label best describes this news article?",Business
+15,which_section_choices,"Company: Ameritrade Hldg Corp New With presidential election-related uncertainty safely in the past, retail investors have returned to the US stock market with gusto, and they #39;re likely to stay engaged, several trading companies said Friday. 
+
+Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business, or Science and Technology?",Business
+16,recommend,"Would you recommend the following article to a politician, an athlete, a business executive, or a scientist?
+
+A.I.G. Agrees to Big Payment in U.S. Cases The company tentatively agreed to pay \$126 million and accept an independent monitor to settle investigations into the sale of insurance.",Business
+17,which_section,"U.S. Plans Crackdown on Piracy, Counterfeiting  WASHINGTON (Reuters) - The United States is cracking down  on the growing trade in counterfeit and pirated goods that  costs U.S. businesses hundreds of billions of dollar annually,  U.S. government and industry officials said on Monday. 
+
+Which section of a newspaper would this article likely appear in?",Sci/Tech
+18,which_section_choices,"Merger could affect Nextel Partners The proposed \$35 billion merger of Sprint Corp. and Nextel Communications could mean changes for Kirkland-based Nextel Partners Inc. 
+
+Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business, or Science and Technology?",Business
+19,which_section,"Sharon death threats spark probe Israeli police examine death threats against Prime Minister Ariel Sharon, amid mounting opposition to his Gaza pullout plan. 
+
+Which section of a newspaper would this article likely appear in?",World
+20,which_section,"Chain Store Sales Mixed in Oct 16 Week  NEW YORK (Reuters) - U.S. chain store sales rose in the  second week of October compared with last year, as seasonal  shopping drove sales during the second week of the month, a  report said on Tuesday. 
+
+Which section of a newspaper would this article likely appear in?",Business
+21,classify_question_first,"What label best describes this news article?
+Cambodia's king 'has abdicated' Cambodia's King Sihanouk has announced his abdication, his son tells the country's National Assembly.",World
+22,classify_with_choices_question_first,"Is this a piece of news regarding world politics, sports, business, or science and technology?
+Greek membership of eurozone not in doubt BRUSSELS - Greece #39;s membership of the eurozone is not in doubt despite a damaging review of its budget data stretching back five years, a European Commission official said Monday.",Business
+23,classify_with_choices_question_first,"Is this a piece of news regarding world politics, sports, business, or science and technology?
+Surprise victory for Basescu in Romania Traian Basescu, a sea captain turned politician, won a surprise victory in Romania #39;s presidential run-off election held on Sunday, according to final results announced yesterday.",World
+24,which_section_choices,"MOTOR RACING: IT #39;S TWO IN A ROW FOR DARIO DARIO FRANCHITTI scored a scorching second Indy Racing League race of 2004 on a triumphant return to Pikes Peak. The Scot finished fourth at the Colorado track last year but this time he led the race four  
+
+Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business, or Science and Technology?",Sports
+25,which_section,"Howard University engineering programs get a boost Industry giants are giving Howard University \$70.6 million in technology to help the school #39;s engineering and science programs. 
+
+Which section of a newspaper would this article likely appear in?",Business
+26,classify,"TEXANS STAT CENTER After finally winning consecutive games, the Texans are a team in search of a challenge.  quot;I knew that was going to come up, quot; Texans coach Dom Capers said with a laugh. 
+What label best describes this news article?",Sports
+27,which_section_choices,"US Envoy Positive About Security Council Talks On Sudan Nairobi, Nov. 18 (NNN) : Ambassadors from the United Nations Security Council are set to meet in the Kenyan capital for talks on Sudan at a two-day event in Nairobi which will focus on the peace process in  
+
+Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business, or Science and Technology?",World
+28,classify_with_choices,"Mularkey Sticking With Bledsoe As Bills QB (AP) AP - Mike Mularkey has a message to those clamoring for rookie quarterback J.P. Losman to replace Drew Bledsoe as Buffalo's starter. Not yet. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",Sports
+29,classify,"For Arafat, Oslo Remained Symbol of Hope (AP) AP - Norway's capital could not have been further removed from the chaos and bloodshed of the Middle East. Yet it was as a result of top-secret meetings here that two veteran warriors decided it was time to talk peace. 
+What label best describes this news article?",World
+30,which_section_choices,"Broncos Griffin reportedly out for season The Denver Broncos have lost tailback-turned-kickoff returner Quentin Griffin for the season, ESPN reported Tuesday, citing no sources. 
+
+Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business, or Science and Technology?",Sports
+31,classify_question_first,"What label best describes this news article?
+Some Weapons at Russia School Were Stolen MOSCOW Sept. 16, 2004 - Some of the weapons used by militants in the deadly Russian school siege were pilfered from police posts in armed raids allegedly led by one of Chechnya #39;s most notorious warlords, Russia #39;s",World
+32,classify_with_choices_question_first,"Is this a piece of news regarding world politics, sports, business, or science and technology?
+New England #39;s win streak hits 19 In a part of the country that is steeped in history, New England #39;s NFL-record, 19-game winning streak might not be recognized with the same reverence as Paul Revere #39;s midnight",Sports
+33,recommend,"Would you recommend the following article to a politician, an athlete, a business executive, or a scientist?
+
+Orton does not start against Ohio State Purdue quarterback Kyle Orton did not start Saturday #39;s game against Ohio State, though he was listed as available to play. Orton has been bothered by a right hip injury for the last month.",Sports
+34,recommend,"Would you recommend the following article to a politician, an athlete, a business executive, or a scientist?
+
+IBM Wins Lloyds TSB Network Contract IBM has signed a \$969-million deal to provide DSL-based Internet telephony and data services to Lloyds TSB, one of the largest banks in the UK.",Sci/Tech
+35,classify,"Travelers could soon report to work mid-flight NEW YORK - Business travelers will be able to surf the Web securely on long-distance flights by combining services from Boeing Co. 
+What label best describes this news article?",Sci/Tech
+36,classify,"Oracle acquisition of PeopleSoft leads flurry of deals NEW YORK (CBS.MW) -- US stocks closed higher Monday, with the Dow Jones Industrial Average ending at its best level in more than nine months amid better-than-expected economic data and merger-related optimism. 
+What label best describes this news article?",Business
+37,classify_with_choices,"Politics: Both sides eye climbing world oil prices nervously The news that the National party is to hold back on key policy announcements until closer to the election has had a mixed reception. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",World
+38,which_section_choices,"Bama offense faces tough test Like most Alabama fans, injured quarterback Brodie Croyle will sweat out tonight #39;s LSU game at home. If, somehow, the Crimson Tide can knock off the 17th-ranked Tigers, Croyle  
+
+Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business, or Science and Technology?",Sports
+39,classify,"Cranes rain down as peace gesture Millions of origami paper cranes yesterday rained down upon Thailand #39;s three violence-torn southern provinces in an extravagant government-sponsored gesture aimed at bringing peace to the predominantly Muslim region. 
+What label best describes this news article?",World
+40,classify_with_choices_question_first,"Is this a piece of news regarding world politics, sports, business, or science and technology?
+Virus poses as Christmas e-mail A computer virus posing as an electronic Christmas card is spreading across the net in many languages.",World
+41,classify_with_choices,"Web site pictures Photo iPod for holidays A Mac news site says iPods that display digital photos may be under Christmas trees this year. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",Sci/Tech
+42,classify_with_choices,"BHP Billiton to expand Pilbara operations Iron ore miner BHP Billiton has announced a further expansion of its Pilbara operations, to meet continuing demand in Asia. Under its \$780 million Rapid Growth Project, BHP Billiton will increase its overall  
+Is this a piece of news regarding world politics, sports, business, or science and technology?",Business
+43,which_section_choices,"Open-Roddick can #39;t wait for  #39;electric #39; atmosphere Andy Roddick hopes to use home advantage to the maximum as he begins the defence of his US Open crown next week. Roddick, who opens this year against American  
+
+Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business, or Science and Technology?",Sports
+44,classify_with_choices,"China Resources To Issue 57.97M Shrs For Supermarket Buys HONG KONG (Dow Jones)--China Resources Enterprise Ltd. (0291.HK) said it will issue 57.97 million new shares to its parent China Resources (Holdings) Co. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",Business
+45,classify_question_first,"What label best describes this news article?
+Jerry Rice Reiterates Call for Trade (AP) AP - Jerry Rice was scheduled to meet with Oakland Raiders owner Al Davis on Wednesday night to discuss the receiver's future after he said he wants to be traded.",Sports
+46,classify_question_first,"What label best describes this news article?
+Desiring Stability Redskins coach Joe Gibbs expects few major personnel changes in the offseason and wants to instill a culture of stability in Washington.",Sports
+47,recommend,"Would you recommend the following article to a politician, an athlete, a business executive, or a scientist?
+
+Akamai boosts Web application services The company fills out its hosted application lineup with four products designed for e-commerce Web sites.",Sci/Tech
+48,classify,"Padres Paste Slumping Mets 4-0 (AP) AP - Brian Lawrence escaped a bases-loaded jam in the first inning and allowed just four hits the rest of the way Wednesday night, pitching the San Diego Padres to a 4-0 victory over the slumping New York Mets. 
+What label best describes this news article?",Sports
+49,classify_question_first,"What label best describes this news article?
+Moss officially out for Green Bay EDEN PRAIRIE, Minn. The Minnesota Vikings officially downgraded All-Pro receiver Randy Moss from doubtful to out for Sunday #39;s game at Green Bay.",Sports
+50,classify_with_choices,"US soldier pleads guilty in Iraq abuse case The highest-ranking US Army soldier accused of abusing prisoners at the Abu Ghraib prison in Iraq, has pleaded guilty to five charges. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",World
+51,classify_question_first,"What label best describes this news article?
+They #146;re in the wrong ATHENS -- Matt Emmons was focusing on staying calm. He should have been focusing on the right target.",Sports
+52,recommend,"Would you recommend the following article to a politician, an athlete, a business executive, or a scientist?
+
+Next to digital IDs, passwords look lame How big is your key ring? There are the house keys, of course, and the car keys and the little fob for unlocking the doors from 30 feet away. And now there's this new blue thingamajig for logging onto the America Online Internet service. You don't have to use it, but it's not a bad idea, if you want to ...",Business
+53,which_section,"Budget ax falls on lunar probe Politics, Texas-style, led to NASA and its shuttle program getting their best treatment in decades from Congressional budget writers. 
+
+Which section of a newspaper would this article likely appear in?",Sci/Tech
+54,classify_with_choices_question_first,"Is this a piece of news regarding world politics, sports, business, or science and technology?
+Wireless Internet Siemens Sets Wireless Data Speed Record In order to achieve the speed of one gigabit per second, Siemens combined an  quot;intelligent antenna system quot; consisting of three transmitting and four receiving antennas with Orthogonal Frequency Division Multiplexing.",Sci/Tech
+55,recommend,"Would you recommend the following article to a politician, an athlete, a business executive, or a scientist?
+
+Sudan Talks in Nigeria Said Deadlocked (Reuters) Reuters - After two weeks of talks to end the\crisis in Sudan's Darfur region, government and rebel\negotiators remain far apart on key security issues, including\disarming warring factions, rebels and diplomats said on\Monday.",World
+56,classify,"Amazon moves into China US internet giant Amazon.com is buying China's largest web retailer Joyo.com, in a deal worth \$75m (41m). 
+What label best describes this news article?",Business
+57,classify_question_first,"What label best describes this news article?
+Busch's ambience set it apart from others ST. LOUIS -- Even a cookie-cutter stadium -- which is the pejorative term that came to describe the multipurpose bowls that seemed to spring up simultaneously in Pittsburgh, Cincinnati, Atlanta, Queens, Philadelphia, and St. Louis in the late 1960s and early '70s -- can have their quirks.",Sports
+58,classify_with_choices_question_first,"Is this a piece of news regarding world politics, sports, business, or science and technology?
+U2 pitches for Apple New iTunes ads airing during baseball games Tuesday will feature the advertising-shy Irish rockers.",Sci/Tech
+59,which_section,"Tests Show No Mad Cow, Cattle Prices Rise  WASHINGTON/CHICAGO (Reuters) - An animal suspected of  having mad cow disease was given a clean bill of health in a  second round of sophisticated testing, the U.S. Agriculture  Department said on Tuesday after cattle prices soared in  expectation of the news. 
+
+Which section of a newspaper would this article likely appear in?",Business
+60,which_section,"Siemens issue warning over 65 series handsets Siemens has posted a warning over its latest range of mobile phones suggesting that a flaw in them may hurt user while using them. 
+
+Which section of a newspaper would this article likely appear in?",Sci/Tech
+61,classify,"CA Updates PestPatrol Anti-Spyware Technology Computer Associates (CA) on Monday rolled out new editions of PestPatrol, the anti-spyware technology it picked up in August when it purchased the privately-held Pennsylvania company. 
+What label best describes this news article?",Sci/Tech
+62,which_section_choices,"American Deserters Find a Mixed Reception in Canada Despite Canada's opposition to the Iraq war, the government also is opposing the U.S. deserters' refugee applications, saying the soldiers are not persecuted. It is resisting the argument that the Iraq war is illegal. 
+
+Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business, or Science and Technology?",World
+63,which_section,"St. Louis Rams Release Punter Sean Landeta (AP) AP - Shaky special teams helped cost punter Sean Landeta his job with the St. Louis Rams. 
+
+Which section of a newspaper would this article likely appear in?",Sports
+64,classify_with_choices_question_first,"Is this a piece of news regarding world politics, sports, business, or science and technology?
+PA: Gaza to remain occupied land even after disengagement Israel will remain an occupying power in the Gaza Strip even if it carries out the disengagement plan, and should be treated as such, according to a legal document prepared by the Palestinian Authority.",World
+65,which_section,"Sybase offers free ASE license for Linux Sybase Inc. is trying to lure businesses seeking low-cost open source DBMS alternatives by offering a free production license for its Adaptive Server Enterprise Express Edition on Linux. 
+
+Which section of a newspaper would this article likely appear in?",Sci/Tech
+66,recommend,"Would you recommend the following article to a politician, an athlete, a business executive, or a scientist?
+
+Sprint Near Deal to Buy Nextel -Sources (Reuters) Reuters - Sprint Corp. is close to\an agreement to buy Nextel Communications Inc. for about  #36;35\billion in a mostly stock deal that would combine the No. 3 and",Business
+67,classify_with_choices,"Oil firms in talks to end Nigerian jobs protest Multinational companies began talks Monday with Nigerian villagers occupying three oil platforms in a dispute over jobs which shut 90,000 barrels per day of oil production. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",World
+68,recommend,"Would you recommend the following article to a politician, an athlete, a business executive, or a scientist?
+
+Frances Postpones Third Cubs-Marlins Game (AP) AP - The Florida Marlins postponed Sunday's game against the Chicago Cubs as Hurricane Frances crept ashore on the eastern coast of Florida.",Sports
+69,which_section,"Calpers to begin search for new President NEW YORK, December 3 (newratings.com) - The Board members of the Californian state pension fund, Calpers (California Public Employees Retirement System), are scheduled to begin the process of selecting a new President today, after Sean Harrigan was  
+
+Which section of a newspaper would this article likely appear in?",Business
+70,recommend,"Would you recommend the following article to a politician, an athlete, a business executive, or a scientist?
+
+Rooney brought down to earth After a debut that was the stuff of fantasy, Wayne Rooney was introduced to the real Manchester United yesterday. The 18-year-old could have been forgiven for thinking that life",Sports
+71,which_section,"Mistakes hinder Knicks in loss It will be labeled a learning experience, but that won #39;t remove any of the sting. Momentum was lost again Wednesday night as the Knicks blew a lead and lost 94-93 to the Detroit Pistons at Madison Square Garden. 
+
+Which section of a newspaper would this article likely appear in?",Sports
+72,recommend,"Would you recommend the following article to a politician, an athlete, a business executive, or a scientist?
+
+Pitt Locks Up BCS Bid Tyler Palko tosses a career-high 411 yards and five touchdowns to push No. 19 Pittsburgh over South Florida, 43-14, on Satudray.",Sports
+73,which_section,"Expectations Low for Georgia Basketball (AP) AP - Georgia is likely to have a dismal season on the basketball court. 
+
+Which section of a newspaper would this article likely appear in?",Sports
+74,which_section_choices,"Nippon Steel to pay double for coal next year Nippon Steel, Japans leading steelmaker, has agreed to pay a record price of more than \$120 per tonne for coking coal from next spring to Australias BHP Billiton Mitsubishi  
+
+Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business, or Science and Technology?",Business
+75,which_section_choices,"Red Hat exec takes Sun to task on open source A top Red Hat executive has attacked the open-source credentials of its sometime business partner Sun Microsystems. In a Web log posting Thursday, Michael Tiemann, Red Hat #39;s vice president of open-source affairs  
+
+Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business, or Science and Technology?",Sci/Tech
+76,classify_with_choices,"Marchers demand fair Ukraine poll Tens of thousands march in a tense Kiev in support for the opposition ahead of next weekend's election. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",World
+77,recommend,"Would you recommend the following article to a politician, an athlete, a business executive, or a scientist?
+
+Tremor shakes Athens, no damage ATHENS - An earthquake rattled Athens on Tuesday, including the Olympic venues in the Greek capital. The Athens Geodynamic Institute said that there was a tremor, but few other details were known, such as the magnitude or epicentre of the quake.",Sports
+78,classify_with_choices,"Economy builds steam in KC Fed district The economy continued to strengthen in September and early October in the Great Plains and Rocky Mountain regions covered by the Tenth Federal Reserve District, the Federal Reserve Bank of Kansas City said Wednesday. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",Business
+79,classify_question_first,"What label best describes this news article?
+Weak industrial output weighs on British growth (AFP) AFP - Britain's industrial sector appears to have been a bigger drag on overall economic growth in the third quarter than was first assumed.",Business
+80,classify_question_first,"What label best describes this news article?
+FTC wants spammer bounties Congress has asked the US Federal Trade Commission (FTC) to look into spam reduction measures, including a  quot;Do Not Spam quot; list idea passed with the CAN-SPAM Act.",Sci/Tech
+81,classify_with_choices,"South Korea #39;s police round up striking civil servants SEOUL: South Korea #39;s police detained more than 140 public sector workers for their involvement in an unprecedented illegal strike against a controversial government labor reform bill, officials said. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",World
+82,classify_with_choices,"Stocks creep higher in New York NEW YORKUS blue-chip stocks ended barely higher yesterday as a spike in oil prices to record closing levels pared earlier gains and renewed concerns about the effect of high energy prices on consumer spending and corporate profits. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",Business
+83,classify_with_choices_question_first,"Is this a piece of news regarding world politics, sports, business, or science and technology?
+Microsoft braces for EU anti-trust appeal US software giant Microsoft said it will abide by whatever ruling is handed down by a European appeal court hearing due to start this week against an EU condemnation for abusing its market dominance.",Business
+84,classify,"Bangladesh paralysed by strikes Opposition activists have brought many towns and cities in Bangladesh to a halt, the day after 18 people died in explosions at a political rally. 
+What label best describes this news article?",World
+85,classify_with_choices_question_first,"Is this a piece of news regarding world politics, sports, business, or science and technology?
+1,600 internet cafes closed in China The Chinese local governments have closed 1600 Internet cafes and fined operators a total of 100m yuan (\$12m) between February and August this year.",Sci/Tech
+86,classify,"AUSTRALIA ROMP TO HISTORIC WIN Australia wrapped up their first series win in India in 35 years after an overwhelming victory by 342 runs in the third Test in Nagpur. 
+What label best describes this news article?",Sports
+87,classify_question_first,"What label best describes this news article?
+Yahoo, Adobe team up on new Web services Yahoo Inc. and Adobe Systems Inc. have joined forces to tap each others #39; customers and put Web search features into Adobe #39;s popular Acrobat Reader software.",Business
+88,which_section_choices,"Turnaround Progress Seen, 2 Executives to Leave Ford Two of the Ford Motor Company's most senior executives retired in a sign that the company's deep financial crisis has abated, though serious challenges remain. 
+
+Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business, or Science and Technology?",Business
+89,classify,"800M PLEDGED FOR VIRGIN BOSS #39;S SPACE TRIPS MORE than 800million has been pledged to Sir Richard Branson #39;s space travel adventure - - years before the ship has even been built. 
+What label best describes this news article?",Sci/Tech
+90,classify_question_first,"What label best describes this news article?
+\$10 million space shot A star-spangled rocket plane returned to space yesterday, enabling a team of entrepreneurs to collect a \$10 million prize for developing the first reusable private spacecraft.",Sci/Tech
+91,classify,"Valentine back in Japan for Autumn camp Lotte Marines manager Bobby Valentine is back in Japan to take part in his team #39;s Autumn training camp. Valentine, who had been mentioned as a possible candidate to replace Art Howe as manager  
+What label best describes this news article?",Sports
+92,classify_with_choices_question_first,"Is this a piece of news regarding world politics, sports, business, or science and technology?
+Indonesia's Yudhoyono rejects foreign help to solve Aceh conflict (AFP) AFP - A state of civil emergency in the rebellion-hit Indonesian province of Aceh has been formally extended by six month, as the country's president pledged to end violence there without foreign help.",World
+93,recommend,"Would you recommend the following article to a politician, an athlete, a business executive, or a scientist?
+
+Some fear it's a passport to identity theft It's December 2005 and you're all set for Christmas in Vienna. You have your most fashionable cold-weather gear, right down to the red maple leaves embroidered on your jacket and backpack, to conceal your American citizenship from hostile denizens of Europe.",Business
+94,classify_with_choices_question_first,"Is this a piece of news regarding world politics, sports, business, or science and technology?
+IOC Sets Up Disciplinary Commission To Investigate Jones Doping &lt;b&gt;...&lt;/b&gt; The International Olympic Committee (IOC) announced Tuesday that IOC President Jacques Rogge has set up a Disciplinary Commission to investigate remarks on ABCs 20/20 Friday, made by Victor Conte, head of the California-based Balco laboratory, on ABC",Sports
+95,recommend,"Would you recommend the following article to a politician, an athlete, a business executive, or a scientist?
+
+S African TV in beheading blunder Public broadcaster SABC apologises after news bulletin shows footage of American beheaded in Iraq.",World
+96,classify_question_first,"What label best describes this news article?
+Quiz Eisner in shareholder suit Disney big cheese Michael Eisner took the witness stand for the first time yesterday in an ongoing shareholder lawsuit, defending his choice of ex-super talent agent Michael Ovitz as Disney #39;s No.",Business
+97,classify_with_choices,"Iraq ; Black Watch look to Christmas Soldiers declared  quot;mission accomplished quot; as the battle group convoy of more than 200 vehicles arrived at the relative safety of Shaibah Logistics Base. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",World
+98,classify_with_choices,"Feds go after  #39;Spam King #39; Federal attorneys are trying to shut down an allegedly illicit Internet business operated out of a dance club in Rochester that is deluging computers with unwanted pop-up ads by hijacking their browsers. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",Sci/Tech
+99,classify_with_choices_question_first,"Is this a piece of news regarding world politics, sports, business, or science and technology?
+Barclays takes look at Absa Barclays said Thursday that it was in  quot;early stage quot; talks about buying control of South Africa #39;s Absa Group for at least \$3 billion in what would be its largest purchase outside Britain.",Business
+100,recommend,"Would you recommend the following article to a politician, an athlete, a business executive, or a scientist?
+
+RBC Centura CEO steps down RALEIGH, NC - The head of RBC Centura Bank has stepped down, and his successor will run the bank out of Raleigh rather than Rocky Mount, where the bank is based.",Business
+101,which_section,"Plans put on hold for pro SCO website Infoworld reports that SCO #39;s briefly planned foray into Groklaw territory announced last month has been put on the back burner. 
+
+Which section of a newspaper would this article likely appear in?",Sci/Tech
+102,which_section,"Having the final say FOXBOROUGH -- The Patriots have won 20 games in a row, and yesterday they tied the NFL record for most consecutive regular-season wins (17). Those are feats that take all the emotion the players can muster week after week. 
+
+Which section of a newspaper would this article likely appear in?",Sports
+103,which_section_choices,"Report Alleges Gay Abuse in Jamaica (AP) AP - A report by a watchdog agency alleges widespread abuse against gays in this Caribbean island, known for the slogan ""one love."" 
+
+Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business, or Science and Technology?",World
+104,classify,"New GuruNet Beta includes Desktop Search New GuruNet Beta includes Desktop Search\\Bob Rosenschein and his team are online with the beta release of a new Gurunet client (ver. 5.2, Windows only). Their useful GuruNet answer/reference tool now includes a desktop search app. We haven't has a chance to try it out yet (we will) but we ... 
+What label best describes this news article?",Sci/Tech
+105,classify_with_choices_question_first,"Is this a piece of news regarding world politics, sports, business, or science and technology?
+Mutombo says he #39;s being traded to Rockets; will back up, mentor &lt;b&gt;...&lt;/b&gt; Dikembe Mutombo, 38, has agreed to a sign-and-trade deal that will send him from the Chicago Bulls to Houston in exchange for Eric Piatkowski, Adrian Griffin and Mike Wilks, the Houston Chronicle reports.",Sports
+106,classify_with_choices,"MPAA Starts Suing Today the MPAA (Motion Picture Association of America) announced today that it had filed an unspecified amount of lawsuits against people who trade Movies using p2p (peer-to-peer) programs. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",Sci/Tech
+107,classify_question_first,"What label best describes this news article?
+Schroeder #39;s SPD Routed in Saarland, Far Right Gains German Chancellor Gerhard Schroeder #39;s Social Democrats slumped to their worst result in 44 years in the western state of Saarland on Sunday as voters punished the party for its painful economic reforms.",World
+108,recommend,"Would you recommend the following article to a politician, an athlete, a business executive, or a scientist?
+
+Rumsfeld Sees U.S. Troops Leaving Iraq Within 4 Years The defense secretary also cautioned that any final decision hinged on the progress of Iraq's new government.",World
+109,recommend,"Would you recommend the following article to a politician, an athlete, a business executive, or a scientist?
+
+Microsoft aims at NetWare users with migration campaign In the U.S., Microsoft will offer training vouchers, migration products and online tech support to NetWare users considering a switch.",Sci/Tech
+110,classify_question_first,"What label best describes this news article?
+Canceled checks, float soon to disappear Every night, millions of cashed checks fly around the country, headed for their home bank. Starting in October, technology will start to ground many of those flights.",Business
+111,classify,"U.S. Stocks, Dollar and Bonds Fall  NEW YORK (Reuters) - U.S. stocks and bonds fell on Tuesday  as the dollar hit a record low against the euro. 
+What label best describes this news article?",Business
+112,classify_with_choices,"Will Putin #39;s Power Play Make Russia Safer? Outwardly, Russia has not changed since the barrage of terrorist attacks that culminated in the school massacre in Beslan on Sept. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",World
+113,classify,"Fragile Arsenal need to shake off fallout from Old Trafford EIGHT days after the Game of the Decade gave way to the Battle of the Buffet before turning into a war of words between Arsenal and Manchester United  
+What label best describes this news article?",Sports
+114,which_section_choices,"Early wake-up call for LSU Can a season be lost before Labor Day? Generally, the answer is no. Even the worst losses can be worked around when they occur on the first weekend of September. There's more than enough time for a team to move past any disappointment in losing a game most expected it to win. 
+
+Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business, or Science and Technology?",Sports
+115,classify_with_choices,"Panthers #39; defense leads to another win Carl Krauser scored all but two of his 17 points at the free throw line to lead No. 11 Pittsburgh to a 70-51 victory over Memphis on Tuesday night in the Jimmy V Classic. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",Sports
+116,classify_question_first,"What label best describes this news article?
+A Daily Look at U.S. Iraq Military Deaths (AP) AP - As of Tuesday, Nov. 23, 2004, at least 1,229 members of the U.S. military have died since the beginning of the Iraq war in March 2003, according to an Associated Press count. At least 957 died as a result of hostile action, the Defense Department said. The figures include three military civilians.",World
+117,which_section_choices,"Trucking Firm Takes a Tumble Trucking stocks offer extremely attractive long-term valuations. What about SCS Transportation? 
+
+Which of the following sections of a newspaper would this article likely appear in? World News, Sports, Business, or Science and Technology?",Business
+118,classify_with_choices,"US Airways again files for bankruptcy protection In another sign of the troubles facing the nation #39;s biggest airlines, US Airways filed Sunday for Chapter 11 bankruptcy protection for the second time since 2002. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",Business
+119,recommend,"Would you recommend the following article to a politician, an athlete, a business executive, or a scientist?
+
+J amp;J takes heart from 13bn deal Johnson  amp; Johnson announced a \$25.4bn (13.1bn) deal yesterday to buy Guidant Corporation, giving the healthcare company a stake in the fast-growing market for devices that regulate heartbeats.",Business

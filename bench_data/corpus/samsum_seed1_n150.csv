@@ -1,0 +1,1385 @@
+id,prompt_name,input,target
+0,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+Joanne: Btw. I don’t know what to bring for the party, so I want to organize Mark's birthday. I bought a cake in which I’ll put candles. When everyone arrives, we can sing happy birthday.
+Aaron: When’s his birthday?
+Joanne: Next month, but whatever
+Aaron: Lol. What?
+Joanne: I know Mark would get the joke, but I'm not sure if other people would.
+Aaron: Yeah, I don’t get it.
+Joanne: Ook, I will not involve other people into singing happy birthday for a person who doesn't have birthday.
+Aaron: Haha well maybe it would be fun?
+Joanne: I believe it's fun, but I am not sure if it's a good idea. I also got a rubber duck for him.
+Aaron: You’re so random. Why?
+Joanne: Duck rhymes with fuck. He broke up with his girlfriend and he probably feels that there is something missing in his life. A duck can fill the hole.
+Aaron: Also I need ur advice. I hope it won’t be awkward between me and Aurelia... I mean obv nothing is going to happen, but shall I say that I’m seeing someone? I know u may think this is me being weird or something. I just want it to be normal time lol so maybe it’s best she knows? I dunno maybe not
+Joanne: Idk what to say, I definitely won't judge you, but I think the more open you're about your girl, the better for the whole situation
+Aaron: So message now her then! Ok good idea.",Joanne wants to organize Mark's birthday party much earlier as a joke to cheer him up. Aaron isn't sure about the idea. Aaron will let Aurelia know he has a girlfriend.
+1,Write a dialogue that match this summary,Write a dialogue that matches this summary: Danny has info from Michael that Frank and Sue are dating.,"Danny: geez, it's so boooring
+Kate: tell me about it *snooze*
+Danny: have you heard about Frank and Sue?
+Kate: ? no? what about them?
+Danny: I've heard they're dating
+Kate: pfff, says who
+Danny: Michael
+Kate: like he knows
+Danny: Hahaha, i know, right? :D
+Kate: I'd rather believe Frank and Mike are dating :P"
+2,Write a dialogue that match this summary,Write a dialogue that matches this summary: Diana's mother died a year ago. Danielle's mother died in 1977. They used to talk every day at 9 pm.,"Diana: One year ago my mother passed away
+Danielle: I’m sorry to hear that
+Diana: She was an amazing woman
+Diana: She was born in 1920
+Diana: She was a young woman when the war started
+Danielle: Like my mother…
+Diana: Is she still alive?
+Diana: No. She died in 1977.
+Danielle: My mother joined the communist party and was fighting in the resistance movement
+Danielle: She saw many of her colleagues arrested and executed but she was lucky to survive
+Danielle: She met my father in 1943
+Danielle: He was also a communist
+Danielle: He was killed one year after I was born
+Diana: So you don’t remember your dad?
+Danielle: Sadly I don’t. But my mother loved him dearly.
+Danielle: He was the love of her life. 
+Danielle: She was with a few men later in her life
+Danielle: But none of them was so dear to her
+Danielle: Mostly she brought me up alone, which was uncommon in the 50s. 
+Danielle: She was a really strong and courageous woman.
+Danielle: I miss her a lot. 
+Danielle: For the past 10 years, we used to call each other everyday at 9 p.m.
+Danielle: And suddenly she passed away
+Danielle: I still feel the need to talk to her in the evening.
+Danielle: But she’s not there anymore to pick up my phone call…"
+3,Sum up the following dialogue,"Sum up the following dialogue: 
+Becky: Ladies are you going to the beach?
+Erin: We are going for a massage :woman-getting-massage::skin-tone-3:
+Erin: Then infinity pool later
+Becky: Ooo nice!
+Becky: What time are you heading to the pool? I think Fred and I are thinking of getting there at 3
+Eva: are guys you driving there? If yes, can I and Vic squeeze in the trunk? :)
+Erin: Prob around 3 also!
+Becky: I think so but we have to see which one we’re going to cause one of them supposedly is too steep to drive up
+Eva: isnt it The last 100 metres that is too steep to drive? Either way, we're up for anything :wink:
+Becky: Honestly there’s one that you can drive up and the other we’d have to park and walk up, but I have no idea where they are or which one people are going to lol
+Irene: yea what is the infinity pool place called? can’t find this info anywhere
+Eva: Hotel Vista de Olas
+Summer: It really easy to find. Just look for the sign along the left side of the road. Only took Alex and I like 20 minutes to walk there yesterday. It’s not super steep but the road seems like it would be really hard to drive on because of pot holes
+Irene: Thanks thats good to know! Don’t want to risk it with the car - so will prob just park close to the bottom.",Becky will give Eva and Vic a ride to the infinity pool. Summer gives Irene directions to Hotel Vista de Olas.
+4,Summarize this dialogue:,"Summarize this dialogue: Nick: Hi, got your message.
+Ralph: Good, what do you say?
+Nick: Depends. Need more info. Let's meet.
+Ralph: Ok. Will email you later.","Nick got Ralph's message. Nick and Ralph will meet, because Nick needs more information. Ralph will send an email to Nick later."
+5,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+Paul: hey, wanna go to an escape room this Friday?
+Joe: yeah! 
+Rob: sure, love escape rooms, there a new one in the city I haven't been to yet
+Paul: which one is it?
+Rob: its theme is narcos, i can book us a slot if you're in
+Paul: yes, let's do this one
+Joe: agree! Friday sounds good
+Rob: great, just give me a minute","Paul, Joe and Rob will go to the new Narcos-themed escape room. Rob will book a slot for Friday."
+6,To sum up this dialog,"Scott: Hey sexy
+Sasha: Hey
+Scott: How are you ?
+Sasha: I'm fine thanks and you?
+Scott: Not too bad. What you been up to ?
+Sasha: I'm getting ready for the party with my mates from the uni
+Scott: Oh ok enjoy. I missed you!
+Sasha: I missed you too!
+Scott: I'm back in Uganda now, so nice having good food and not paying crazy amounts for it
+Sasha: Thnx actually I'm feeling tired already but I know I need to go there because it's the first such a party with them. So if I don't go there they won't invite me anymore
+Scott: Haha you should go then
+Sasha: Yeah :)
+Scott: Have fun
+Sasha: Thank u
+To sum up this dialog:",Scott is back to Uganda. Sasha is tired but she is going to attend a party with her colleagues from university. Scott and Sasha miss each other.
+7,To sum up this dialog,"Raymond: a brief reminder bro, carry your documents
+Reddington: no need to worry, thats the first thing i put in my bag
+Raymond: ID, passport and the rest?
+Reddington: yes.
+Raymond: okay then
+Reddington: cant wait for the interview.
+Raymond: are you nervous?
+Reddington: just a little bit, what about you?
+Raymond: me too, bt it will be fine
+Reddington: me too i have that feeling that it will all be okay.
+Raymond: God first 
+Reddington: yeah, God first
+Raymond: later then
+Reddington: okay
+To sum up this dialog:",Raymond reminds Reddington to pack documents up. They will have an interview.
+8,To sum up this dialog,"Taylor: Where have u reached?
+Owen: I have just crossed LA
+Taylor: would be waiting :)
+To sum up this dialog:",Owen just passed LA. Taylor will be waiting.
+9,To sum up this dialog,"Paul: Why does Tom and Marry talk only about food?
+Miranda: Maybe they don't have better topics?
+Paul: How can you even talk so much about food
+Olivia: Hahahaha
+Olivia: It's true
+Olivia: Now when I think of it
+Olivia: Maybe it's some kind of a game?
+Olivia: In public we talk only about food 
+Olivia: And we will see if people notice
+To sum up this dialog:",Tom and Marry talk only about food in public.
+10,Write a dialogue that match this summary,Write a dialogue that matches this summary: Alex passed her exam. Monica's exam is due next Tuesday.,"Alex: I passed it :)))
+Monica: Woooooooww!! Was it hard??
+Alex: A bit
+Emma: Congrats :))
+Alex: Thx :* And when is your exam @Mon?
+Monica: next Tue, so still practising...
+Emma: :<
+Monica: But i think it'll be OK
+Monica: Wish me luck
+Emma: Ofc it'll be OK!!!! You are well prepared
+Monica: <file_gif>
+Alex: xDD"
+11,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+Mike: Hi bro! You won't guess what suprise I have for u :D
+Joe: ??? Any hints… 
+Mike: Tomorrow…. evening… many people ….. one ball…..
+Mike: :‑P
+Joe: Are u joking? You get those tickets? 
+Joe: How, it was almost impossible ?!
+Mike: It's not important how but that we have tickets in first row!!!
+Joe: |;‑)",Mike got hold of those first row tickets.
+12,Given the above dialogue write a summary,"Bary: Hi, how are you? 
+Kate: Good. Just waking up. How about you? 
+Bary: Very good! 
+Kate: Not headache? 
+Bary: Surprisingly not! :D
+Kate: :)
+Bary: Did you sleep well?
+Kate: More or less. The was some noise in the street in the morning. But, yeah, a good night sleep. 
+Bary: Would you like to go for a walk in the evening?
+Kate: Sure, with pleasure. Where?
+Bary: How about I come around 3:00 and we'll see, ok?
+Kate: Okey. I haven't been to Wilanów lately. Maybe there?
+Bary: Why not :)
+Kate: Great :) 
+Bary: Any particular place there? The park or the newer part? 
+Kate: I was thinking more like park. 
+Bary: Fine with me :) See you at 3:00.
+Kate: :) See you :)
+Given the above dialogue, write a summary.",Bary doesn't have a headache. Kate slept quite well. Bary and Kate will meet around 3:00 in a park in Wilanów.
+13,Sum up the following dialogue,"Sum up the following dialogue: 
+Sarah: <file_photo> Síofra’s First day of school. I didn't even cry, so proud of myself!
+Finn: We're proud too Sarah 😂😂
+Anthony: baby getting older! Well done Sarah for not crying",Siofra had her first day of school.
+14,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+Bernie: The wife will be out of town for a couple of days :) 
+Chris: The house to yourself then?
+Marty: Lucky you ;)
+Bernie: Actually, I thought you could come over ;)
+Chris: When?
+Marty: How many beers should I bring? ;)
+Bernie: Marty, that's the spirit! It shows you're not married ;)
+Chris: So?
+Bernie: Friday after work?
+Marty: Works for me :)
+Chris: I'll talk to my wife about it. We had some plans, but maybe we'll be able to move them.
+Bernie: What plans?
+Chris: She wanted to go to some stupid exhibition. 
+Marty: So why not let her go alone and you join us?
+Chris: That's actually date night.
+Bernie: A what then?
+Chris: A date night. Something she read about and we decided to implement...","Bernie's wife is leaving for a few days. He wants Chris and Marty to come in on Friday after work. Marty is in. Chris has a date night with his wife, but he will try to move it."
+15,Write a dialogue that match this summary,Write a dialogue that matches this summary: Jacob sends Ava his assignment.,"Ava: Jacob, have you finished your assignment??  
+Jacob: yes I have .. Do you need it?? xD <file:assignment>
+Ava:  You are love :love :love you are best
+Jacob: I know.."
+16,Summarize:,"Summarize: Camille: I finally got my driving licence!
+Petunia: Amazing!!
+Camille: I took the test 13 times 
+Alain: What a perseverance
+Camille: I thought I would never make it 
+Petunia: But you made it!!
+Petunia: Congratulations!!!
+Alain: So you must be driving every day now!
+Camille: I do!!
+Camille: I may not be the best driver
+Camille: But I really enjoy it. 
+Camille: And it's so convenient to drive to work
+Camille: If only finding a parking spot wasn't so difficult.",Camille took the driving licence test 13 times. She passed the test finally. Petunia and Alain are congratulating her. Camille drives every day to work. Finding the parking is the only downside.
+17,To sum up this dialog,"Martha: Did u take an umbrella?
+Nick: no :(
+Martha: ok, I'll pick u up
+Nick: u r the best!
+To sum up this dialog:",Martha did not take an umberall so Nick offers to pick her up.
+18,Write a dialogue that match this summary,"Write a dialogue that matches this summary: Ty found out from Steve Clark's back in town. Clark only told Steve, because he ran into him. Ty wants to meet for a beer next week, Clark may be free even sooner.","Ty: Why didn't you tell me you were back in town?? I only found out from Steve. Man.
+Clark: I haven't told anyone yet, I just happened to run into Steve, that's why he knows.
+Clark: Life's been so crazy I haven't got round to it and I wanted to meet up with you guys properly once I'm free.
+Ty: I'd hope so! We haven't seen you for months now, we've gotta catch up. Beer next week?
+Clark: I think I'll be free even sooner than that! I'll let you know this weekend."
+19,To sum up this dialog,"Dora: Mum, I've been at home.
+Dora: I left some things for you on the kitchen table. 
+Mira: OK. 
+Mira: Did you feed the cat?
+Dora: Yes. 
+Dora: I gave him the rest of the can that was open. 
+Mira: Good. 
+Mira: Can you come and feed him tomorrow midday?
+Dora: I think yes. 
+Dora: Around noon or 1 o'clock. 
+Mira: Thank you. 
+Dora: Do you need any shopping?
+Mira: No, thank you. 
+To sum up this dialog:",Dora helps Mira with feeding her cat.
+20,To sum up this dialog,"Fiona: Pick me up after work?
+Tom: Okay, I might be a little late though, I have a meeting at 5 and I'm not sure how long it will be
+Fiona: No problem, just text me
+Tom: OK
+To sum up this dialog:","Tom will pick Fiona up, but may be late to do so. Tom has a meeting at 5. Tom will text Fiona."
+21,Given the above dialogue write a summary,"Nick: you sleeping?
+Tim: No, why?
+Nick: Can I call you?
+Tim: sure, shoot.
+Given the above dialogue, write a summary.",Nick will call Tim.
+22,Summarize this dialogue:,"Summarize this dialogue: Ed: Why are you online at 3 a.m?
+Peter: Heh. I'm working
+Ed: In the middle of the night?
+Peter: Deadline.
+Ed: Ehh. Be sure to get some sleep dude. It's not healthy,
+Peter: I know  but I have to finish it.",Peter is online and working at 3 am because of a deadline.
+23,Summarize this dialogue:,"Summarize this dialogue: Andy: Sharol can you pick up Mary from university?
+Sharol: Sure i can, but what happened?
+Andy: She is saying some one has hit her car when it was parked now she cant start it.
+Sharol: oh my goodness, she must be very upset.
+Andy: She is,.. you can imagine it you know how she is crazy about her car..
+Sharol: i know she reacts so much to a single scratch i dont know what she would be doing.
+Andy: just try to cheer her up and talk about other stuff.
+Sharol: ok mom dont worry i will take care of her.
+Andy: thanks darling.
+Sharol: no problem mom.","Sharol will pick up Mary from university, because someone has hit her car when it was parked, and now she can't start it."
+24,Write a dialogue that match this summary,Write a dialogue that matches this summary: Kimberly's plane lands at 11.45 pm. Dave will pick her up. Kimberly and Scott will meet tomorrow.,"Scott: Kim!
+Scott: What time does your plane arrive?
+Kimberly: Quarter to midnight.
+Scott: That's late! Will you be taking a taxi?
+Kimberly: Dave said he could give me a lift, so don't worry about me!
+Scott: Alright then, see you tomorrow!"
+25,To sum up this dialog,"Hilary: can't belive that our children start school tommorow
+Mandy: I know, yesterday they couldn't even walk :D
+Hilary: Max is so happy, his backpack is already near the door :)
+Mandy: I think Lisa is a little scared
+Hilary: she'll be fine, as soon as she meet new friend everything will be great
+Mandy: Hope so :)
+Hilary: ok, see u tomorrow then :)
+To sum up this dialog:",Hilary's son and Mandy's daughter are starting school tomorrow.
+26,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+Owena: Your dad has just come from the police station...
+Pamela: What? Why?
+Owena: Do you remember the guy named Jack?
+Pamela: The guy who was in jail for fraud?
+Owena: Yes. Your dad hired him as you know,
+Pamela: Did he do something bad?
+Owena: Yes. And he begged your dad to pay back his debt
+Pamela: What? Did dad do that?
+Owena: Yes he did. He thought he became an another man 
+Owena: And maybe he cut down his salary for a few months for the amount of money he asked your dad to
+Pamela: Do you know why are swindlers called swindler?
+Pamela: Cause cheating is their talent!!!
+Owena: So he had to go to police and explain what happened
+Pamela: Accuse him!!! 
+Pamela: Accuse that bastard!
+Owena: We will. He brought your dad's phone and bilked other people as well.
+Owena: And people who called your dad's number thought your dad did this fraud to them. 
+Owena: Now he explained what happened to him and the phone isn't a problem anymore..
+Pamela: What the hell is going on?
+Pamela: How does dad feel?..
+Owena: Not happy of course...
+Pamela: Mom. Seriously he shouldn’t trust anybody 
+Owena: This was what I was talking about to your dad.
+Owena: Don't worry we will solve this problem.",Pamela's dad had to explain to the police that he is not a part of Jack's swindle. Jack is his employee who had been previously imprisoned for fraud.
+27,Write a dialogue that match this summary,Write a dialogue that matches this summary: Max thinks that waiters/waitresses shouldn't be framed by their nationality.,"Henning: You wanna hear something weird?
+Max: yes, always!
+Henning: Recently somehow we talked about waiters/waitresses. And the Louis's interpretation was that in Italy they are so nice, because they are so lowly and cannot afford to be demanding and have to be servile, basically.
+Henning: And in France they are arrogant, because they can afford it.
+Henning: Somehow, because their status is higher.
+Max: LOL. Another beautiful theory - nationalist in its core, after all.
+Henning: And I agree with neither the first nor the second assessment.
+Max: me neither. Being honest I don't see huge differences throughout Europe. It happens to me to meet a very nice waiter here and there, and grumpy people as well
+Henning: No, so far i find Italian waiters much nicer and much less professional than in Germany. But I wouldn't venture any theories about the countries.
+Max: Jakob (the Slovene) told me after coming back from Berlin that waiters there are so much less nice than here in Italy. While Jakob (the Pole) always complains about them being so rude in comparison with Poland.
+Henning: Berlin is a big city though
+Max: And I am starting to think that all those theories say more about their authors than about the waiters and the countries. They are always nationally framed, which is stupid
+Henning: Maybe. Also our position, when I am in a restaurant in Germany I am often with my family, in Italy with a bunch of fun young, foreign people.
+Max: Paris is a different world than Bretagne I assume. In a small village. Of course, there is more of talking, touching, joking in Italy. But people in Germany, in Landshut are also more talkative than in Munich. That's all, I believe. Aaso it depends how touristic the place is, etc.
+Max: It's also about the general culture of eating out, talking to waiters, anonymity of the big city. 
+Max: Especially between societies as diverse and generally as similar as France and Italy, just think about Genova and Nice!
+Max: just bullshit! Luis is so communists but keeps blushing conservative and..."
+28,Sum up the following dialogue,"Sum up the following dialogue: 
+Anna: Nice dress :-)
+Zoe: thx
+Anna: Zara?
+Zoe: C&A
+Anna: ok. Must check it :-)",Anna likes Zoe's C&A dress.
+29,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+Rose: I bought new jacket:) the other one got worn down
+Bree: Let me see! I thought you're broke totally
+Rose: Yeah, well, my mom funded part of this shopping
+Lily: Part:D? Probably she covered whole price
+Rose: No, no, no! Of course not, she paid half of it
+Bree: Does it really matter? I feel like we're gonna start fighting abut Rose's shopping, wtf?
+Lily: I'm chilling, not saying anything
+Bree: Well, I hope so:) Where did you find it?
+Rose: You know this place, it's this second hand on 1st Ave and Pride St
+Bree: OOOOh! I love this place, you can find really good vintage clothes there
+Lily: Why you guys didn't tell me about this place ever?
+Bree: Duh, yeah we did, you just don't like secondhand shops
+Rose: I agree, I remember you once said it's just trash coming back from the red cross boxes
+Lily: Cause some of it does, and people make straight profit from it
+Rose: Anyway, it was fairly cheap and in good condition
+Bree: Send us pics!",Rose bought a new jacket at a thrift store on 1st Ave and Pride St. Her mom paid a part of the price. Lily doesn't like the idea as she thinks people use vintage stores to make a profit.
+30,Write a dialogue that match this summary,"Write a dialogue that matches this summary: Hailey is a model on ""Elle"" magazine as Mackenzie discovered. Julia looked for more information on Facebook. Hailey is married and she's a professional model.","Mackenzie: LOOK! <file_photo>
+Mackenzie: It's Hailey!!
+Julia: :o what magazine is it?
+Julia: is she a model??
+Mackenzie: ""Elle"" :)
+Mackenzie: Apparently. :D I'm as surprised as you are.
+Julia: i need to do some fb stalking
+Julia: SHE'S A PROFESSIONAL MODEL :o
+Julia: and she's married!!
+Mackenzie: wow :o that's some news!"
+31,Given the above dialogue write a summary,"Westin: Have u watched beasts of the southern wild?
+Izayah: No what's it about?
+Westin: I don't know yet
+Izayah: So why are you asking?
+Westin: Haha I wanna watch this but it's a fantasy movie
+Izayah: Hmm not into such movies
+Westin: Neither me but this one seems to be interesting
+Izayah: Enjoy
+Westin: Thanks anyway
+Izayah: Haha ok
+Given the above dialogue, write a summary.",Westin and Izayah have never seen 'Beasts of the Southern Wild'. Westin is considering giving it a try.
+32,Summarize this dialogue:,"Summarize this dialogue: Shane: Baby, in a week we are gonna celebrate our ONE YEAR ANNIVERSARY
+Jess: <3 Time flies when you're happy <3
+Shane: Right?
+Jess: I made a reservation at Chez Maman at 7pm
+Shane: Sooo romantic <3
+Jess: But I think there is something important we should discuss right now
+Shane: ??
+Jess: Will you move in with me?",Jess and Shane are celebrating one year anniversary in a week. They will meet at Chez Maman at 7pm. Jess asks Shane to move in with her.
+33,Summarize:,"Summarize: Camilla: I can't find that post on Facebook. 
+Camilla: the one Marie posted
+Camilla: it's got a black background
+Helena: hold on, I'm checking
+Helena: I think I found it
+Helena: <file_other>
+Helena: this one?
+Helena: try and click on it
+Camilla: ok
+Helena: did you try calling them too?
+Camilla: not yet
+Helena: ok
+Helena: I noticed there are many comments
+Camilla: ok the page loaded, yeah I can see all the comments
+Helena: many people that seem to know about it
+Helena: very sad 💔
+Camilla: yeah",Helena helped Camilla to find Marie's Facebook post.
+34,Summarize:,"Summarize: Sofia: hi
+Christian: how you doing?
+Sofia: i'm ok. u?
+Christian: in bed and what are you doing today?
+Sofia: i'm home
+Christian: doing what?
+Sofia: nothing, just home. And later I have to go and buy something for my friend's birthday
+Christian: nice. what u gonna buy?
+Sofia: i do not know. I will have to look for something
+Christian: ok. I want to see u
+Sofia: so u need to come to warsaw
+Christian: when are you going back to warsaw?
+Sofia: tomorrow i will be in warsaw for sure
+Christian: ok ;) I will try to come on Tuesday for the day",Sofia is home and Christian is in bed. Sofia will go shopping for a birthday present for her friend. She will be back in Warsaw tomorrow and Christian will come to Warsaw on Tuesday to meet Sofia.
+35,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+David: We gotta split the bills guys
+Monica: Sure, I'm looking at this email too
+David: How bout you Nina?
+Nina: I'm here, I'm here, 3 ways? 
+David: I was gone for 2 weeks so maybe lets try to divide electricity different ways? 
+Nina: Sure, any idea how to divide it?
+David: I'll make some excel calculations
+Monica: Just send it over, I'm fine with it","David, Monica and Nina will split the bills. David will divide the electricity bill differently, because he was gone for 2 weeks."
+36,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+Sandy: wanna join? <file_other>
+Tina: no, I need to keep writing:/:/
+Sandy: writing what?
+Tina: a stupid essay for Monday :/ :/
+Sandy: about?
+Tina: some psychological shit..:P
+Sandy: uh, that sucks ;(
+Sandy: how many pages?
+Tina: 30............
+Sandy: how many u have?
+Tina: don ask!
+Sandy: 3? :D
+Tina: 5...  
+Sandy: fuck!!close fb and  u gonna make it,  fingers x!!
+Sandy: thx, enjoy tonite!","Tina can't join Sandy as she needs to keep writing an essay on psychology for Monday. She has to write 30 pages, but has only 5 now."
+37,Sum up the following dialogue,"Sum up the following dialogue: 
+Michael: Have you seen the last episode?!
+Jane: Oh my god, yes!!!
+Jane: IT. WAS. PERFECT.
+Michael: hahahaha, thought you may like it :D
+Michael: I must admit I was waiting for something like this, finally the plot is back.
+Jane: I was enjoying it even without the plot ;)
+Michael: Well, not everyone is satisfied with just looking at Jensen Ackles ;P
+Jane: Which I don't understand.
+Jane: But yeah, it was a great ep. I'm glad we've seen more hunting stuff and they've finally decided to paint Mommy dear out of the picture.
+Michael: I agree, I was so fed up with this. I don't get why they brought her back in the first place.
+Jane: Ran out of ideas probably, but come on. I could've understood them if they brought her back only for one season, ok, but more?
+Michael: Tell me more. Especially, as it seems that they focused more on her than the boys.
+Jane: And there's less and less Castiel :( Not a good sign
+Michael: I love this show, but I must admit I came close to letting it go.
+Jane: me too... I had a break when season 9 was on, but I was feeling nostalgic once and here I am again XD
+Michael: At least we've got one really good episode after 3 awful seasons :D",Jane and Michael enjoyed watching the last episode. Jane is happy to see more hunting and Mommy written out. She is not happy with seeing less of Castiel. Jane took a break from watching after season 9. Michael is happy to see an interesting episode after 3 bad seasons.
+38,Write a dialogue that match this summary,Write a dialogue that matches this summary: Fedora sees Fiona's photo of her and Carson and finds out they were dating.,"Fiona: <file_photo>
+Fedora: Is that Carson?
+Fiona: Carson with me haha
+Fedora: You guys were dating!!
+Fiona: Hahaha
+Fiona: true old love"
+39,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+Violet: hi! i came across this Austin's article and i thought that you might find it interesting
+Violet: <file_other>
+Claire: Hi! :) Thanks, but I've already read it. :)
+Claire: But thanks for thinking about me :)",Violet sent Claire Austin's article.
+40,Summarize this dialogue:,"Summarize this dialogue: Hannah: I think shes serious about that now
+Hannah: she started the medication and it really works
+Patty: good news!
+Hannah: she was going to do some additional tests this week
+Patty: please let me know when you get some news
+Hannah: ok but I don't want to keep asking...
+Hannah: I can feel that she's a bit uncomfortable
+Patty: I'm just worried :(
+Hannah: I know, so am I
+Hannah: but I really think it's under control now
+Hannah: I'll let you know anyway
+Patty: last week was terrible but I really hope she got a little scared...
+Patty: you know what I mean?
+Hannah: totally
+Patty: she has to understand that she's not 20 anymore :D
+Hannah: yeah... we're already 23 :D :D :D
+Patty: I wish :)
+Hannah: I'm gathering some recipes for Mary
+Hannah: only easy ones ;)
+Patty: great idea!
+Hannah: I'll show you when it's ready
+Hannah: actually I'm going to put it all in one pdf
+Patty: wow that would be fantastic
+Patty: with your knowledge you should publish a book!
+Hannah: yeah right ;)
+Patty: seriously!!!
+Patty: go for it! ;)",Hannah is gathering recipes for Mary. She is going to put it all in one pdf file.
+41,Sum up the following dialogue,"Sum up the following dialogue: 
+Mike: hey have you played RDR2 already?
+Jack: of course
+Jack: I think I'm halfway through
+Mike: ooooh
+Mike: and whaddya think?
+Mike: coz I've just started
+Jack: what can I say, it's freaking great
+Jack: the storytelling, the acting, the graphics, immersiveness (is that a word? hehe)
+Jack: you know, when I was a kid, I used to play with cowboy-themed lego sets
+Jack: so it's like a dream coming true for me :D
+Mike: haha
+Mike: totally","Jack likes RDR2 mainly for the narration, acting and the graphics. Jack used to play with cowboy-themed lego sets when he was a child."
+42,Sum up the following dialogue,"Sum up the following dialogue: 
+Mark: Hi Hun :*
+Jackie: Hi yourself :* sleep well?
+Mark: Yeah. So good I’m running late for work.
+Jackie: Sorry to hear that. 
+Mark: Doesn’t matter. You got time tonight?
+Jackie: For you, always :*
+Mark: Great! Can you walk my dog?
+Jackie: Say what?!
+Mark: just kidding! Don’t get so uptight.
+Jackie: So, what did you have in mind?
+Mark: Dinner, movies. You know. The usual. 
+Jackie: Your place or mine?
+Mark: Mine, obviously ;)
+Jackie: You’re so sweet <3
+Mark: So, what do you want for dinner?
+Jackie: I’m in a mood for... surprise me :P
+Mark: How about Greek?
+Jackie: No.
+Mark: Oh, I thought you liked Greek.
+Jackie: I do, but not 4 nights in a row.
+Mark: Point taken. Thai?
+Jackie: Sounds more like it :)
+Mark: I’ll look something up at work. Could you do the groceries?
+Jackie: Sure. Just tell me what to buy. What time do you finish?
+Mark: Around 5 p.m.
+Jackie: Well, I’m supposed to finish at 4:30, so maybe let’s meet at the store?
+Mark: Sounds like a plan!
+Jackie: See you there?
+Mark: Sure. See you then Hun :*
+Jackie: Bye :*",Mark and Jackie will meet tonight for dinner and movies at Mark's place. They will go to grocery store together and Mark will make Thai food later.
+43,Write a dialogue that match this summary,"Write a dialogue that matches this summary: Josie, Stephen and Carol have accepted Kyle's invitation to try out a new D&D expansion. Stephen asks Kyle to give their player characters a chance to succeed more often when Kyle is the Dungeon Master. Carol and Josie agree with Stephen. Kyle obliges.","Kyle: you guys want to check out the new D&D expansion I just finished reading?
+Stephen: It's the one about the beasts and creatures, isn't it?
+Carol: I'm up for it
+Josie: as well
+Kyle: yes, that's the one
+Stephen: Kyle, as much as I love you as our DM could you try and not make the situation hopeless for our characters from beginning to end this time?
+Stephen: I just feel the PCs with you are always in shit and almost never succeed at anything.
+Kyle: I just try to make it challenging for you :P Do you all feel this way?
+Carol: a tiny bit
+Josie: kinda yes
+Kyle: okay, I'll let you guys succeed this time.
+Kyle: a  tiny bit :P"
+44,Sum up the following dialogue,"Sum up the following dialogue: 
+Ella: I got into an argument with Ethan :<
+Ella: ;(((
+Freya: oh :(
+Isabelle: what happened this time? :|
+Ella: Meh I don't know if it's worth it anymore really
+Freya: well, isabelle is right, it happens all the time recently...
+Isabelle: it does
+Ella: I know :(
+Ella: Maybe there's something wrong with me?
+Isabelle: to be honest i don't think so :* i guess i've never really grown to like him heh
+Freya: maybe...
+Freya: sorry :d
+Isabelle: well, maybe give it some more time and see
+Isabelle: or try having an honest normal conversation instead of arguing...?
+Freya: good point!
+Ella: Easier said than done...
+Ella: I don't wanna give up just yet I guess. So I'll wait and think about it etc.",Ella and Ethan have argued a lot recently. But Ella is not ready to end the relationship.
+45,Given the above dialogue write a summary,"Dominika: Hiiiii
+Tom: Oh, hi
+Julia: Hi, Domi!
+Dominika: <file_video>
+Tom: Ok, are you drunk? :D
+Julia: WHAT are you wearing? :O
+Given the above dialogue, write a summary.",Dominika send Tom and Julia a video of her.
+46,Given the above dialogue write a summary,"Patty: Going shopping tomorrow?
+Joe: What choice do I have?
+Patty: What do you mean?
+Joe: I mean that I'll get loads of crap if I don't have a gift for Saturday.
+Patty: Like from Sue?
+Joe: Who else?
+Patty: Didn't know she was like that!
+Joe: She definitely is! Expects a gift on Father's Day, that chick!
+Patty: Oh come on!
+Joe: Well, it seems like it!
+Patty: I can help you find something if you're having a hard time.
+Joe: That would be great. I'm out of ideas.
+Patty: Well, I kind of know what she likes. Has she hinted at anything?
+Joe: Other than just a gift, no.
+Patty: Well, what's the occasion, her b-day?
+Joe: Yes. 
+Patty: Why didn't you say so? You idiot!
+Joe: What???
+Patty: Of course you have to have a gift for your gf's birthday!
+Joe: I guess.
+Patty: Perfume? Jewelry? Furniture? Kitchen sink? What?
+Joe: Jewelry, I guess.
+Patty: Okay, like what? Does she wear earrings? Bracelet?
+Joe: Earrings. Diamond ones. Don't get round ones I just got her those last month.
+Patty: Okay, I think I know what you mean. What's the budget?
+Joe: $500
+Patty: Wow, sweet! I'm off to shop!
+Joe: Thanks!
+Given the above dialogue, write a summary.",Joe is going shopping tomorrow. Otherwise Sue will be mad at him for not getting her a gift for her birthday on Saturday. Joe and Patty decide that earrings within the range of $500 would be the best gift for Sue. Patty can help Joe pick them out.
+47,Summarize:,"Summarize: Sharly: Hey girl
+Makena: hey love
+Sharly: so listen, the date of the photo shoot was pushed to yesterday
+Makena: WTF??😥😥😢
+Sharly: yeah i know, it sucks right?!!
+Makena: very
+Sharly: no one is ready for tomorrow
+Makena: just imagine my hair is not yet piled
+Sharly: haha, thats really bad for us
+Makena: cant we talk to the director or something?
+Sharly: he cant, he was the one who gave out the notice
+Makena: hope they'll pay extra cash for compensation
+Sharly: they must!!
+Makena: this has to do with the magazine right?
+Sharly: yeah, i think so
+Makena: okay then, let me get my shit together
+Sharly: 👍😂😂😂
+Makena:😂😂
+Sharly: let me go to the salon first
+Makena: cool",The date of photo shoot was changed to yesterday. Makena is not ready yet. They should pay them extra for compensation.
+48,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+Peter: How are you feeling?
+May: Good, why?
+Peter: I'm feeling a bit queasy, I don't know why
+May: And you think it's because of the food?
+Peter: I don't know, I didn't drink much so it's not that
+May: I hope it's not the food, we had the same
+Peter: Hm, weird, I'm not feeling great for about an hour now
+May: I'm ok, but it's something you had before dinner. That restaurant has very good opinions
+Peter: Maybe, but you know, accidents happen",May and Peter had the same food at the restaurant. Peter has been feeling sick for an hour. He didn't drink much.
+49,Given the above dialogue write a summary,"Kevin: hey 
+Stan: yo! what are you up to
+Kevin: nothing really, wanna hangout
+Stan: sure, let's wait for Tim
+Kevin: ok but you know it may take ages
+Tim: hi there, stop talking about me, wanna to the movies?
+Stan: excellent idea my friend
+Kevin: agreed!!
+Given the above dialogue, write a summary.","Kevin, Stan and Tim are going to the movies."
+50,Sum up the following dialogue,"Sum up the following dialogue: 
+Jenny: Do we need to bring anything to your parents for Christmas day?
+Matt: They said not to bother but it would be nice to though 
+Jenny: have you got something in mind? I don't want to leave it so last minute
+Matt: I haven't really thought about it, maybe cheese, crackers, chutney type of thing?
+Jenny: ok, does Mark eat all of that? being a veggie and all?
+Matt: I think so
+Jenny: cool, I'll get some on Friday. 
+Matt: Thanks 
+Jenny: XX","Jenny and Matt are going to Matt's parents for Christmas. Jenny will get some cheese, crackers and chutney on Friday to bring for the party."
+51,Given the above dialogue write a summary,"Josh: Thanks! Do you know her size?
+Monica: Don't you?
+Josh: I tried being discreet about it, but every method I found on the internet failed.
+Monica: What did you do?
+Josh: I tried tying a string around her finger, but she woke up.
+Monica: Yeah, she's a light sleeper. 
+Josh: Now I know that. I tried getting her to buy a ring so that I could measure it.
+Monica: That's a good idea!
+Josh: Not really. We spent the entire evening at different shops, she measured virtually any ring she could find but didn't buy anything.
+Monica: Hahaha! I know! I remember one time we went shopping. I came out with 3 full shopping bags and she just got a slurpee.
+Josh: Not funny. 
+Monica: Don't worry, I'll figure something out. 
+Given the above dialogue, write a summary.","Josh wants to buy her a ring, but he doesn't know her size. Monica will help him to figure it out."
+52,Summarize:,"Summarize: Tessa: letters!
+Austen: eeeaaasyyy i'll get to it eventually :D
+Tessa: ud better cause i'll forget
+Tessa: and then you'll be sorry in the exam 
+Austen: ok ok 
+Tessa: tomorrow!
+Austen: ok they'll bethe best letter u've ever read! 
+Tessa: theyd better be xD
+Austen: :D",Austen is going to write a letter and give it to Tessa tomorrow.
+53,To sum up this dialog,"Scott: Where should we meet?
+John: at Oculus?
+Scott: ok! at 7.30
+John: yup!
+To sum up this dialog:",Scott and John will meet at 7.30 at Oculus.
+54,Summarize this dialogue:,"Summarize this dialogue: George: guys, I will be late, there was a huge traffic jam in Austria
+Maria: what happened?
+George: maybe just an accident, but I wouldn't be surprised if it was weather related, there's so much snow everywhere
+Joseph: Where are you know?
+George: close to Kufstein
+Teddy: so almost Germany!
+George: Yes, but I am driving very slowly, and at this time I was supposed to be close to Munich
+Maria: Don't worry, just drive safely
+George: but don't wait for me with dinner
+George: it may take even 2 hours I think
+Maria: ok, I'll warm it up for you as soon as you arrive
+Maria: just inform us how it is going
+George: I will!",George will be late because of the congestion on the road in Austria. There is a lot of snow everywhere. He is close to Kufstein now. Maria will leave a dinner for George.
+55,Summarize:,"Summarize: Markus: Did you go to the march yesterday?
+Tony: I certainly did
+Markus: I saw it all online. Awful violence, such a  disgrace.
+Tony: Yes. A big disgrace. I saw a couple of scuffles myself.
+Markus: There were these Neo-fascists punching and pushing with these Antifa people, in the end he pushed him over and started kicking him until his girlfriend got in between them.
+Tony: Yes I saw that one. Very violent.
+Markus: What about the second one?
+Tony: Well effectively it was the same one again. The cameraman wasn't happy with his angle the first time, so he told them to do it again.",Markus went to the march yesterday and saw Neo-fascists fighting with Antifa. Tony watched the entire march online.
+56,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+Ann: Hi July :) Any plans for 2night?
+July: I'm going to the Cinema with Gus. U can go with us if u want.
+Ann: i wish but I've to buy new dishwasher for my mom. 
+July: Oh, I see. 
+July: If u need any help I'll call Gus and we will help u.
+Ann: Really?! You are great! :x
+July: No problem sis :x",July and Gus are going to the cinema tonight. Ann has to buy a new dishwasher for her mom.
+57,Given the above dialogue write a summary,"Lola: <file_other>
+Lola: check it!
+Laura: hmmm, a bit LOL honestly, what does it mean ""enigmatic landscape""
+Jeff: and ""where elephants tower"" 😂😂😂😂
+Lola: god, it's not the point!
+Tim: hahaha
+Lola: I know, just kidding
+Jeff: so what's the point?
+Lola: what we could do there, it could help us plan the trip
+Jeff: Lola, no offence, but I really detest Lonely Planet
+Lola: I know, and TripAdvisor and airbnb and all the capitalist consumption through tourism...
+Lola: but still... they just have good tips there
+Jeff: like what?
+Lola: simple ones, I know nothing about Botswana
+Lola: like Chobe National Park or Chapman's Baobab
+Laura: this one looks really impressive indeed
+Jeff: yes, and then we go there where 10000 other tourist go, destroying the landscape and producing the 15534th picture on instagram
+Lola: I don't know about you Jeff, but I'm spending savings of my life to go to Botswana and I want to get from it as much as possible, so I need to know what's there
+Laura: I get your point Jeff, but Lola is also right
+Jeff: ok, whatever, we could at least use some less commercial guidebooks
+Lola: if you know any, I'm more than excited to look at them!
+Jeff: ok, I'll look for sth
+Given the above dialogue, write a summary.",Jeff doesn't like Lonely Planet. Lola is going to Botswana. Jeff will look for some less commercial guidebooks.
+58,Summarize this dialogue:,"Summarize this dialogue: Wayne: Hey guys, fancy a dinner together?
+Sharon: Hey Wayne, splendid idea! I finish work at 6 so shall we say 8 downstairs?
+Wayne: Yeah, sounds good to me
+Paulina: Ofc, what are you cooking for us? 🤣
+Wayne: Haha well, I was thinking of some pasta overcooked pasta with tuna…
+Paulina: Mmm delicious 😷🤣🤣🤣
+Paulina: I might bring my own food though
+Paulina: LOL
+Wayne: 😂
+Paulina: Now seriously, I’ll be arriving late from work but I can make some salad. Can you cook the main meal?
+Wayne: Yer no problem. I was thinking of buying some fish pies 🐟🐟🐟
+Sharon: Oh that sounds good. I’ll bring some wine
+Sharon: Red or white?
+Wayne: I prefer white if it’s not a problem
+Paulina: It’s fine by me
+Sharon: Cool, will do
+Wayne: Splendid. I’ll see you guys at 8 downstairs
+Paulina: Yep. Looking forward","Wayne, Sharon and Paulina are meeting for dinner downstairs at 8. Wayne is buying fish cakes, Paulina is making a salad and Sharon is bringing some white wine."
+59,To sum up this dialog,"Carol: hey i need your help
+Carol: my computer stopped working
+Michelle: that sucks :-(
+Michelle: your laptop or desktop?
+Carol: laptop
+Carol: wha's the name of your guy?
+Carol: the one you told can fix any computer
+Michelle: his name is bill
+Michelle: would you like his number?
+Carol: please
+Michelle: it's 717-222-4877
+Carol: thank you so much
+Carol: i owe you one
+To sum up this dialog:","Carol's laptop stopped working, he needs help. Michelle gives Carol a phone number of a computer specialist to fix the laptop."
+60,To sum up this dialog,"Zoe: OMG! Look what I've just found in the bushes!
+Benjamin: Show me
+Zoe: <file_photo>
+Benjamin: Holy shit! How many of them? 3 or 4?
+Zoe: 4, I need to take them home
+Benjamin: What if their mother just went to fetch some food?
+Zoe: You might be right, but anyway it's not a good place for tiny kittens! :(
+Benjamin: Perhaps you should wait and observe a bit if the mummy doesn't come around
+Zoe: I will hang out here for a while :(
+Benjamin: Where will you keep them?
+Zoe: I think in the laundry room, though mum won't be happy about that
+Benjamin: They need to be safe, that's what counts!
+To sum up this dialog:",Zoe found four little kittens in the bush. Zoe wants to take them home and keep them in the laundry room. Benjamin thinks Zoe should first wait for the cats' mom to come around.
+61,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+Chris:: What are your plans now for Halloween?
+Amka: Just gonna stay in?
+Mick: Yeah
+Mick: nothing special <file_gif>
+Amka: Fair enough I never used to do anything for Halloween.
+Chris: in Poland we actually don't celebrate Halloween and don't do all this dressing up, pumpking curving and so on. 
+Chris: on November 1st we just go to the cementary with our families and after that spend time together.
+Amka: I like it like this.",Amka and Mick don't have any special plans for Halloween and neither does Chris as Halloween much celebrated in Poland.
+62,Write a dialogue that match this summary,Write a dialogue that matches this summary: Mark hopes Tanya enjoyed her birthday. Mark will visit Tanya asap.,"Mark: Tanyaaaaa, I'm a dodohead and forgot to write you for your bday
+Mark: I hope you had a fantastic time celebrating and that the year ahead is full of happiness and adventure!
+Mark: miss ya buddy! bigs hugs from far away
+Mark: <file_photo>
+Tanya: ooooommmmggggg
+Tanya: that photo!!!! 😂😂😂
+Tanya: thank youuuu
+Tanya: miss you too! come visit soon!!!
+Mark: will do so ASAP 😎"
+63,To sum up this dialog,"Paul: I'm on board.
+Anne: ok, honey, have a safe flight! <3
+Paul: Thank you :*
+Anne: give me a call when you land.
+Paul: I will. Love you.
+To sum up this dialog:",Anne will phone Paul when her plane touches down.
+64,Summarize this dialogue:,"Summarize this dialogue: Kim: Hi how's your tooth?
+Jools: not there anymore
+Jools: feels odd
+Jools: like a huge hole in my mouth
+Kim: does it hurt?
+Jools: not now, I took some pills
+Jools: but my whole head hurts :/
+Kim: you're going to be better soon
+Kim: can you eat?
+Jools: not really
+Jools: I can't eat or drink anything hot today
+Jools: just some cool cocktails
+Kim: <file_other>
+Kim: I like these cocktails
+Kim: I saw them at tesco
+Jools: I'm on my way to tesco right now ;)
+Jools: thanks, I'll try it
+Jools: I'm starving
+Kim: maybe just some drinks tonight? ;)
+Kim: are you doing anything tonight?
+Jools: I don't know, I will tell you in 2 hours ok?
+Jools: I have to do some shopping and see how I am in a couple of hours
+Kim: ok sure
+Kim: take care",Jools is in pain after his tooth extraction. He is going to Tesco's to buy some cool cocktails. He will let Kim know in two hours if they can go out together tonight.
+65,To sum up this dialog,"Rebecca: We should leave by 7AM
+Rebecca: Otherwise we will be stuck in traffic
+Logan: I know, I would even suggest 6.15 if we won't to get to the peak by lunchtime
+Zach: how long it take to get to the mountain?
+Logan: 2h by car and then about 30min walk to the first hut
+Zach: ok, so let's try to meet at my place at 6.15
+Rebecca: very good!
+To sum up this dialog:",Rebecca and Logan suggest to leave before 7AM in order to avoid traffic. Logan informs Zach that it takes 2h by car to get to the mountains and then half an hour to the first hut.
+66,Summarize:,"Summarize: Pete: I've got the milk. I'm coming.
+Nicole: You've just started?!
+Pete: Yeah... there was a line.
+Nicole: OMG, I thought you'd be half way home by now...
+Pete: Well, that's life for ya.
+Nicole: OK, are you hungry?
+Pete: starved...
+Nicole: OK I'll make dinner then
+Pete: Thanks!
+Nicole: Just drive safe ;*
+Pete: Always do.
+Nicole: that's bullshit :D
+Pete: gotta go, honey ;* See ya in a bit
+Nicole: love you, sweets!",Pete is coming home with milk. Nicole will make dinner.
+67,Sum up the following dialogue,"Sum up the following dialogue: 
+Lorna: Hi Alice!
+Lorna: A donut from heaven! 
+Lorna: I don't even mind getting my legs touching each other after that. Thank you!
+Alice: So glad you liked it!",Lorna really enjoyed the donut.
+68,Summarize:,"Summarize: Gera: hey, i was given your number by lucy
+Hope: hey, yeah she told me of a client who wanted some help.
+Gera: im glad she told you.
+Hope: yeah she did.
+Gera: what time will you be available in your office?
+Hope: meet me at 2, ill be there
+Gera: okay then",Gera got Hope's number from Lucy. She is going to meet Hope at 2 in her office.
+69,To sum up this dialog,"Isabella: I bought us train tickets on Sunday :)
+Liam: How much do I owe you?
+Isabella: Nothing, you paid for our concert tickets. :) :*
+To sum up this dialog:",Isabella bought train tickets for Sunday. Liam paid for the concert tickets.
+70,Summarize:,"Summarize: Herman: Sweetie I didn't hear from you
+Elly: Hey!!
+Elly: Sorry I was with George at the park
+Herman: Do you want to have lunch with me?
+Elly: Ok, can you pick me up from George?
+Herman: Ok, at 1?
+Elly: Yes ok :)
+Herman: See you then 😘
+Elly: 🤗",Herman invited Elly for lunch. He will pick her up from George's at 1 o'clock.
+71,To sum up this dialog,"Amber: <file_photo>
+Sophia: O wow!!
+Isla: Niceeee
+Sophia: U look amazing!!
+Amber: ;)
+Sophia: High heels *.*
+Sophia: They're gorgeous
+Amber: Brand new xD
+Isla: Perfect outfit for your prom!!
+Sophia: Where did you buy them?
+Amber: Online
+Amber: <file_other>
+Sophia: Ooo, thanks :*
+Sophia: They are perfect!!
+Amber: Looks amazing, but I don't know if that's the most comfy option..... xD
+Isla: Hahahah, we'll see :D:D
+Sophia: You've made a good choice with that dress
+Sophia: It really suits you ;-))
+Amber: Thaaaanks :)
+To sum up this dialog:",Amber looked stunning during her prom. Sophia loves Amber's new high heels.
+72,Summarize:,"Summarize: Peris: I cant eat this junk food anymore
+Omari: Why?
+Peris: I have been planning to for dieting
+Omari: Great idea
+Peris: What about you?
+Omari: Its been 2 months since i have been going to shapes
+Peris: You didnt tell me :/",Peris want to start dieting. Omari has already been dieting for 2 months.
+73,To sum up this dialog,"Brandon: Wanna see a flick Sat? New Queen movie is out. Let me no…
+Sheila: Who else is going?
+Brandon: Only asked you so far…
+Sheila: Like a date?
+Brandon: NO!
+Sheila: Geez.
+Brandon: I don’t mean it like that! Calm Down!!!
+Sheila: J/K!
+Brandon: Really?
+Sheila: Maybe!
+Brandon: Can you go or not?
+Sheila: Yeah, if it’s a group.
+Brandon: Why?
+Sheila: Mom won’t freak if it’s not a date!
+Brandon: LOL!
+Sheila: Serious!
+Brandon: Your mom’s a freak!
+Sheila: I no…
+Brandon: I mean, you’re old enough to do what you want!
+Sheila: I no!
+Brandon: I’ll ask Kayla and Brent, will that work?
+Sheila: Def.
+Brandon: Kthxbai
+Sheila: LOL!
+To sum up this dialog:",Brandon and Sheila want to see New Queen movie. Sheila wants to go out as a group to prevent her mum freaking out. Brandon will ask Kayla and Brent to join them.
+74,Write a dialogue that match this summary,Write a dialogue that matches this summary: John had a fight with Martha about her boyfriend and his brother Andy. Mike met Andy once.,"John: Hi! Maybe u've been on the Bohemian Rhapsody?
+Mike: Sure!
+John: Gr8! I asked Angie, bt she hasn't seen it yet and then I got into a small fight with Martha.
+Mike: What did u argue about?
+John: She basically thinks I called her a skank.
+Mike: And did u?
+John: I thought she changed bfs, but turns out that her bf has a bro. 
+Mike: Right, Andy.
+John: U knew?
+Mike: Yup. Met him once. Nice guy.
+John: Y didn't u tell me?
+Mike: U never asked."
+75,Write a dialogue that match this summary,Write a dialogue that matches this summary: Sonia will go and work in Keep Calm cafe as Carioca is quite far away.,"Sonia: Do u know any cafe in the centre where I can work now?
+Paula: maybe Carioca?
+Paula: <file_other>
+Sonia: it won't be crowded?
+Paula: usually they're not that crowded until 8...
+Paula: how long do u want to stay?
+Sonia: I've got an appointment at 7:30 so for sure not that longd;-)
+Paula: but wait, it is quite far...
+Sonia: Where r u now?
+Sonia: Lux med <file_other>
+Paula: so maybe Keep Calm
+Paula: it's just round the corner :D :D
+Sonia: sounds like a plan
+Paula: but don't eat there! 
+Sonia: why?
+Paula: it's quite expensive!
+Sonia: kk, I see, gotta go :*"
+76,Sum up the following dialogue,"Sum up the following dialogue: 
+Ellen: Are you taking a break now?
+Susie: Yep, in five, I just need to finish the report
+Ellen: Wanna get some coffee?
+Susie: Love to",Susie is taking a break in 5 after she's done with the report. Ellen wants to get some coffee with Susie.
+77,Summarize:,"Summarize: Frank: Eliza
+Frank: Im going to IKEA to get some furniture stuff for our kids
+Eliza: Oh do we still need anything
+Frank: I might get something special for Morris 
+Frank: His bday is coming up 
+Eliza: Yeah that's a good idea
+Frank: And we need some new lamps 
+Frank: They have deal this week 
+Eliza: Are we getting a new lamp for Jeanine? 
+Eliza: She needs a new lamp before she goes to school 
+Frank: I will take care of that
+Frank: Do you need anything? 
+Eliza: Hmm I think we're both good
+Eliza: But if you feel like buying something useful 
+Eliza: then I am ok with that 
+Frank: I will go for a few rounds in Ikea
+Frank: And will letcha know
+Eliza: Thanks dear
+Eliza: I will see you tonight",Frank is going to IKEA to buy furniture and a gift for Morris. Eliza wants him to buy a lamp for Jeanine.
+78,Sum up the following dialogue,"Sum up the following dialogue: 
+Matt: I don't like my English course
+Audrey: Why? 
+Matt: There is too much homework
+Audrey: Why? How much homework do you have?
+Matt: Two, three essays per week
+Audrey: That's a lot. Do you have any tests or quizzes?
+Matt: Yes, one quiz per week and then final exam
+Audrey: Wow, sounds like a lot of studying
+Matt: I know, plus one or two reading texts
+Audrey: It’s really a helluva work 
+Matt: You bet it is. 
+Audrey: How do you find time for all this?
+Matt: I don't have enough time in a day for all these assignments
+Audrey: You should talk to your teacher
+Matt: I don't want to. I want to stay under her radar
+Audrey: You’re right, it's one more month. You will get through this
+Matt: Thx! I know, it's only few more weeks
+Audrey: Take care
+Matt: I will. You too ;-)",Matt doesn't like his English course. He has to study for it a lot. The course ends in a month.
+79,Given the above dialogue write a summary,"Aleena: do you have one hour on Friday?
+Ben: i think i have 24 hours on Friday
+Aleena: what?
+Ben: never mind
+Ben: i have one free hour
+Aleena: super, we can go for a walk
+Ben: do we have to PLAN going for a walk?
+Aleena: it's better to plan something than sit and stare in TV
+Ben: you mean watching the movie?
+Aleena: i mean staring in stupid reality shows
+Ben: last time it was you who wanted to see it
+Aleena: but it was the last episode
+Ben: ...
+Aleena: this time we go out
+Ben: ok
+Given the above dialogue, write a summary.",Aleena wants to fo for a one hour walk on Friday. Ben thinks it does not need to be planned. She does not want to watch tv but prefers to go outside.
+80,Given the above dialogue write a summary,"Cora: what do you think about going to a spa? 
+Kaylee: <file_other> I've done a research and this one looks the best
+Lydia: Nice idea, we will finally get some rest
+Cora: Ye... this schoold is driving me crazy
+Kaylee: Done, I've bought a groupon, that one is on me!
+Lydia: Kaylee you are crazy
+Given the above dialogue, write a summary.","Cora, Kaylee and Lydia are going to a spa. Kaylee pays for everything."
+81,Sum up the following dialogue,"Sum up the following dialogue: 
+Greg: Ms. Hawkins, I believe your dog shit on my loan.
+Ms. Hawkins: He would never do such a thing!
+Greg: Well I saw him?
+Ms. Hawkins: Do you have a witness?
+Greg: No, I don't. I cleaned it this time. But don't let it happen again, please.
+Ms. Hawkins: And you tell the lady who left your house at 5 am this morning to lose the hat. It's awful!","Ms. Hawkins' dog shat on his lawn, but she doesn't believe it."
+82,Sum up the following dialogue,"Sum up the following dialogue: 
+Nick: Guess what Kelly!
+Kelly: What Nick?
+Nick: I was just walking down to the street to get some lunch when I bumped into Heather!
+Kelly: I thought she moved out of town?
+Nick: So did I! Apparently she was visiting her parents. But the best part is that she was there with her new partner!
+Kelly: Haha, so what is he like? 
+Nick: Now it gets even better - it was a woman!
+Kelly: No way, you're joking? 
+Nick: I'm not joking, they were holding hands and so on :D
+Kelly: That's unbelievable Nick, you were together for so long
+Nick: Well, I remember that. But it seemed that she got over me me like 100% :D
+Kelly: Good for her then :)","Nick bumped into his old girlfriend, Heather. She is back in town visiting her parents, and has a new partner, a girlfriend."
+83,Summarize this dialogue:,"Summarize this dialogue: Ralph: Have you ever heard of a company called ""Venque""?
+Victoria: No. what is this?
+Ralph: <file_other>
+Ralph: Check it out
+Charles: it's a Canadian company
+Charles: They have very beautiful but expensive products. 
+Ralph: What do think about this bag?
+Ralph: <file_other>
+Charles: Very stylish",The Canadian company Venque has beautiful but expensive products.
+84,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+Adam: <file_video>
+Adam: what do you think
+Hector: give me a sec
+Hector: ok watching
+Adam: let me know
+Hector: can't really hear a lot there ;/
+Adam: yeah ;/
+Adam: i think i need to record it somehow else
+Adam: maybe through the interface and software
+Hector: that definitely is a great idea!
+Hector: i guess that's why i gave you the interface and installed it :D
+Adam: yeah xd
+Adam: ok i'll try to figure it out later
+Hector: ok
+Hector: i'll be waiting :P",Adam will record it somewhere else through the interface and software. Hector gave and installed the interface before.
+85,Summarize this dialogue:,"Summarize this dialogue: Maggie: hi Tom, sorry I'll be late for work today. I've overslept:(
+Tom: Hi Maggie. Thanks for the message. OK, don't worry. What time do you think you'll arrive?
+Maggie: about 9.30
+Maggie: I hope
+Tom: thats ok
+Tom: I hope you'll be in time for our team meeting. 
+Maggie: yep
+Tom: Ok, take care and see you!",Maggie overslept. She is going to be late for work but will come on time for team meeting.
+86,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+James: Honey, I don't want you to freak out, but there's been a burglary
+May: Oh my god! Where?!
+James: At our place
+May: OH MY GOD are you all right?!
+May: Did they steal anything? What happened?
+May: When?!
+May: I'm coming back!
+James: As I said I don't want you to freak it, the police's here, they're checking everything
+James: You don't need to come back, everything's under control
+May: But are you all right?
+James: Yes, I'm absolutely fine. They stole the TV, couple of stuff from the kitchen and a laptop
+May: How are the dogs? How come they didn't alarm you?
+James: They're fine, they were sleeping with me in the bedroom. It's actually better they did, otherwise the burglars might have hurt them
+May: Don't even tell me about it :(
+May: What does the police say?
+James: That there was definitely more than one burglar as they took the tv
+James: It happened to the Smiths just last week, apparently some group is targeting our neighbourhood
+May: That's terrible... Is the house going to be protected?
+James: Uhm, what do you mean?
+May: Well, the police should take watch and protect the house and the neighbourhood
+James: Yeah, sure
+May: What?
+James: Honey, they’re here just to take my statement, look around and out they go
+May: Aren’t they going to investigate it?
+James: They will, but it’s a burglary, not a homicide and we’re not in any danger. They already stole what they wanted to
+May: I want to come home
+James: There’s no need for that, I’ve got this, you just relax
+May: how am I supposed to relax now?!
+James: There’s nothing you can do now, everything’s fine","Someone robbed James and May's place. They stole the TV, kitchen equipment and a laptop. The police is there and checks everything. The dogs didn't alarm James, because they were sleeping in the bedroom."
+87,Given the above dialogue write a summary,"Tim: Are you at the station already?
+Helen: Yes, our train is leaving from platform 3.
+Andrew: Hurry up!
+Helen: In 5 minutes
+Tim: I should make it
+Helen: Are you far?
+Tim: Just around the corner
+Given the above dialogue, write a summary.","Helen and Andrew are already at the station, their train is leaving from platform 3 and Tim is hurrying up to make it, he's just around the corner."
+88,Write a dialogue that match this summary,Write a dialogue that matches this summary: Caroline will be late from school. Caroline has to do a 2-hour chemistry experiment at school.,"Caroline: Hey mom, I'm coming today late from school. Could you leave some food in the fridge?
+Mom: Of course, but why are you coming late?
+Caroline: Whe have to do an experiment in chemistry and it takes about 2hours
+Mom: Okay, I'll see you at home then"
+89,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+Jill: Jack, they're doing it again
+Jack: ??
+Jill: our upstairs neighbours!! it's like a freakin porno movie
+Jack: hahaha aren't you a little jealous
+Jack: cause your husband
+Jack: who's an excellent lover might I add
+Jack: is away?
+Jill: yes I am SO turned on by this couple of weirdos
+Jack: :* just wait until 10pm and knock on their door
+Jill: too embarrasing :P
+Jack: silly
+Jill: how is your night?
+Jack: no sexy noises on my end
+Jill: yeah right
+Jack: not live anyway ;D
+Jill: how did the meeting go?
+Jack: I will know tomorrow they said they need to sleep on it
+Jill: sleep on what? considering whether your idea is briliant or super brilliant?
+Jack: apparently :(",Jill’s neighbours from upstairs are having loud sex. Jack will know how his meeting went tomorrow as they need to sleep on it.
+90,Given the above dialogue write a summary,"Thomas: Where is the shop you told me about?
+Joseph: the bicycle workshop?
+Thomas: I think so, the one where they can look at my bike and told me what's wrong with the gears
+Richard: Crane Lane 5
+Richard: But told them you bought it there, so they will feel obliged to help you
+Thomas: won't they recognise it's not from there?
+Richard: no, not at all, they've had thousands of bikes of this brand
+Thomas: ok!
+Given the above dialogue, write a summary.",Thomas's bicycle is broken. He will go to a bicycle workshop on Crane Lane 5.
+91,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+Lisa: Hi there. You all right?
+Dan: Hi, Lisa. I'm much better now.
+Lisa: Good to hear, Dan. Good luck.",Dan is much better now.
+92,Summarize this dialogue:,"Summarize this dialogue: Kayla: Are watching Great British Bake Off?
+Tom: I am, it's so exciting!
+Kayla: I know! I am so cheering for Bryony! 
+Tom: Oh no, I'm all for Ruby to win!
+Kayla: Really??? I find her a bit annoying.
+Tom: Great baker though! Loved her donuts
+Kayla: true, but they all are! Oh it's back on, have fun!
+Tom: let the best baker win...
+Kayla: 🤞 🎂","Kayla and Tom are watching Great British Bake Off. Kayla is cheering for Bryony, while Tom is all for Ruby."
+93,Summarize:,"Summarize: Donald: hey
+Donald: stop lying everytime i ask you where is mike
+Scofield: dude, since when did i lie 
+Donald: since you told me Mike was not at home
+Scofield: he wasnt i promise
+Donald: i dont beleive you
+Scofield: okay then",Donald doesn't believe Scofield that Mike was not at home.
+94,Summarize this dialogue:,"Summarize this dialogue: Fred: Did you book the flight?
+Zach: Not yet
+Fred: What are you waiting for?
+Zach: I still hope to find a better deal
+Fred: Forget it
+Fred: Flights are only getting more expensive
+Zach: Did you book yours?
+Fred: Long time ago
+Fred: Listen, I don't want to stress you
+Fred: I just don't want you to overpay
+Fred: If you wait too long
+Zach: Relax dude
+Zach: I have it under control
+Zach: Everyday I check for deals
+Zach: I'll buy it soon.","Zach haven't booked his flight, because he hopes to get a better deal. Fred doesn't think waiting is a good idea."
+95,Summarize:,"Summarize: Paul: Gym at 4p.m.?? 
+Steve: Ok with me
+John: I won't make it
+John: I got stuff to do
+John: Maybe next time","Paul and Steve are going to the gym at 4, John is busy."
+96,Given the above dialogue write a summary,"Mat: he doesn't answer. Shall i go?
+Chris: yes give a try
+Mat: ok but i'll have to wait 20 minutes...
+Chris: doesn't matter. it would be done. Work on your presentation
+Mat: i don't have it with me... bad  luck
+Given the above dialogue, write a summary.",Mat hasn't his presentation with him.
+97,Sum up the following dialogue,"Sum up the following dialogue: 
+Sam: I have sent you the invoice for last month.
+David: Thanks! I'll check it later.
+Sam: Also I think it makes sense to part ways after this month unless you can find someone to replace me sooner.
+David: OK. Why do you want to leave?
+Sam: Originally you said that you can provide me with 80-100 hours per month but it's never been more than 50 pcm.
+David: ...
+Sam: ATM it is even less. It's not really viable for me when all I get from you is about 5-6 hours per week spread over 3 days.
+David: I see.
+David: If you want to leave that's fine. We have been looking for someone to replace you in the meantime anyway.
+Sam: OK. How soon do you think you can release me from the contract?
+David: Hopefully next week.
+Sam: When will you know?
+David: Next week. :-)
+Sam: OK.",Sam wants to end the contract with David. In the meantime David was already looking for someone to replace Sam. Hopefully Sam will be released from the contract next week.
+98,Sum up the following dialogue,"Sum up the following dialogue: 
+Sasha: Hi Dean
+Dean: Hi :)
+Sasha: Are you at school now?
+Dean: yes
+Sasha: great! Would you mind helping me a little?
+Dean: ??
+Sasha: I forgot to give in my essay on modernism and you know how digitally retarded professor Dickins is
+Dean: Haha, I do :D
+Sasha: Could you please please please go to the library and print it out for me?
+Dean: Sure, does it have to be now?
+Sasha: By the end of the day is okay
+Dean: Good, cause I was just going to grab some lunch
+Sasha: No worries, I oweyou forever
+Dean: :)
+Sasha: Thanks!!!
+Dean: I'll let you know when it's done",Dean will print out Sasha's essay in the library for her to hand it in to professor Dickins.
+99,Summarize this dialogue:,"Summarize this dialogue: Preston: have you seen my blue striped shirt?
+Rachel: it's in the laundry bin
+Preston: you didn't wash it?
+Rachel: no sorry i didn't have time...
+Preston: what am i going to wear for the presentation today then???
+Rachel: don't panic, just wear the gray one, you look better in it anyways",Rachel didn't have time to wash Preston's blue shirt. Preston will probably wear the grey one.
+100,Summarize:,"Summarize: Chris: At home?
+Paul: Yeah.
+Chris: Want to play some Overwatch?
+Paul: Sure but I need to eat first.
+Chris: Not a problem, just log in when ready.",Paul will log in to play Overwatch with Chris after he's eaten.
+101,To sum up this dialog,"Irma: take the garbage when you'll go out
+Ross: ok
+Irma: :)
+To sum up this dialog:",Ross will take out the garbage.
+102,To sum up this dialog,"Diana Voss: Good morning Ms. Hobbs! We have just landed in Frankfurt and be arriving in the evening. Could you please turn the heating on in our apartment?
+Ms. Hobbs: A very good morning to you, Diana! Sure I will do it.
+Diana Voss: Thank you very much!
+Ms. Hobbs: Pleasure.
+To sum up this dialog:",Diana Voss has just landed in Frankfurt and will be arriving in the evening. Ms. Hobbs will turn the heating on in her apartment.
+103,Write a dialogue that match this summary,Write a dialogue that matches this summary: Filip wants that Alienor translates for him a manual of a device manufactured by his father from English to French. Alienor translates the fragments of the manual and sends them back to Filip. He will approach her later for some more translation.,"Filip: Hello
+Alienor: Hello Filip
+Filip: I have question
+Filip: How seriously it would be improper if I would ask you to translate something for me from English to French
+Filip: I do not have it with me now but will have it in couple hours
+Filip: It is manual written by my father for device he is manufacturing
+Alienor: Is it a long text?
+Filip: Problem we are facing is that customer from Africa claims to speak English but they seem not to understand it. Their main language is French
+Filip: Do not think so.
+Alienor: If it is not too long I am happy to translate it
+Filip: <file_other>chtm15ken.pdf
+Filip: That is one of them and only couple sections B, c, d, f
+Filip: And there is second one but have it on pc
+Filip: Let me know if that is not too much to ask
+Filip: <file_other> gl2m-man.pdf
+Filip: That is second one but I will say more later. Please do not translate straight away
+Alienor: <file_other> section B
+Filip: You are Starr, I did not expect you to do anything right away
+Alienor: <file_other> section_D, <file_other> section F
+Alienor: I had to modify it to make it more French so it is not 100% following your text, but it means the same.
+Alienor: I made it using Google Translate + correcting and adapting it so it is more French :D
+Alienor: hope it is ok
+Alienor: I usually do it that way so it is quicker and easier
+Filip: Can I approach you in the evening about other one?
+Alienor: no problem
+Alienor: might only do it tomorrow though
+Filip: Ok
+Filip: Hello. I was cough with work yesterday and today working till late night. I did not forget about you. Just need to find some spear time 😊
+Alienor: no problem"
+104,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+Daniel: Privet, Sergey Mikhailovich!
+Sergey: Hi, Daniel!
+Daniel: How's the whole party thing going?
+Sergey: Everything's fine, I'd say, a lot of people are already here and more are coming
+Daniel: Ok, I should be there within an hour and a half
+Sergey: Ok, don't worry
+Daniel: Is Pamela there already?
+Sergey: Yes :P
+Daniel: Ok, see you later
+Sergey: See you!","Daniel's going to Sergey's party, he'll be there in an hour and a half. Pamela's already there."
+105,Summarize this dialogue:,"Summarize this dialogue: Sarah: In the shops now.
+Sarah: Is there anything you want me to get for you?
+Barb: Something for dinner would be nice.
+Sarah: What would you like?
+Barb: Comfort food...
+Barb: Soup?
+Sarah: What flavour?
+Barb: Pumpkin if they've got it.
+Sarah: Anything else?
+Barb: Or chicken noodle
+Sarah: And some nice crusty rolls to go with it?
+Barb: Actually some croutons but if not crusty rolls will be fine.
+Sarah: OK. Consider it done! xox",Barb would like Sarah to buy some pumpkin or chicken noodle soup with croutons or crusty rolls.
+106,Sum up the following dialogue,"Sum up the following dialogue: 
+Mark: I'm working from 6pm onwards
+Mark: And tomorrow 2pm-9pm
+Ann: what about saturday? 
+Mark: I'm off
+Ann: so let's stick with saturday
+Mark: sure, we can go to the botanic gardens
+Ann: ok, let meet at my place at 11 and we'll decide then
+Mark: sure thing! see you! 
+Ann: Bye",Mark will meet Ann at her place at 11 on Saturday.
+107,Given the above dialogue write a summary,"Magdalene: Are you coming to the cocktail party this Sunday?
+Frederick: Yes
+Josephine: I don't know yet
+Josephine: Jamie is sick
+Josephine: If he's not better I'll stay to take care of him 
+Magdalene: I hope he gets better soon
+Magdalene: I'm going. Let me know if you need a lift. 
+Given the above dialogue, write a summary.","Frederick and Magdalene are coming to the cocktail party this Sunday. Josephine doesn't know yet, because Jamie is sick. Magdalene can give someone a lift."
+108,Summarize:,"Summarize: Steve: Was the technician already there?
+Aria: Nope... still waiting
+Steve: OK, let me know
+Aria: <file_gif>",Aria is waiting for the technician. Steve wants to know when he arrives.
+109,Summarize:,"Summarize: Conrad: Hey man, where the fuck are you?
+Conrad: I’m pissed off, man
+Frank: Shit, I forgot, mate
+Conrad: You’re a dick head, bro","Conrad is angry, because Frank forgot about the meeting."
+110,Given the above dialogue write a summary,"Angelica: How's ur day going?
+Scott: Alright and yours ?
+Angelica: Nothing special. I'm feeling ill a bit
+Scott: Oh shame
+Given the above dialogue, write a summary.",Angelica is a bit ill.
+111,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+Ingmar: hi guys I'll be visiting London this week so please give me some recommendations on restaurants and places that locals like
+Kevin: I'm not going out much but my favorite place is Dino's pizza place at Bottom Alley 50
+Miranda: Soho is great but it's expensive as fuck
+Xiao: Mimi Creperie is mindblowing, especially if you love French sweets
+Ingmar: cool thx","Ingmar's coming to London and asks for recommendations. Kevin recommends him Dino's pizza, Xiao Mimi Creperie."
+112,Sum up the following dialogue,"Sum up the following dialogue: 
+Petra: Hi Zack, I see you called. Sorry I can't pick up. In lectures all day.
+Zack: Ok, when will the break be I can try then.
+Petra: I will call you back in the lunch break because I am not sure if this lecturer will stick closely to the break times in the programme.
+Zack: OK. 
+Petra: Or you can write to me what it's about. I can type  and read I just can't listen or talk.","Zack called Petra, but she didn't answer because is in lectures all day. Petra will call Zack back during the break. Zack can write to Petra because she can read and write during the lecture. Petra can't talk or listen during the lecture."
+113,Generate a summary for this dialogue,"Generate a summary for this dialogue:
+Nicholas: what's up guys?
+Paul: nothing new, you?
+Clara: ah my ""boyfriend"" is driving me crazy
+Nicholas: what happend? and since when you have a boyfriend 
+Paul: ye and why are you using inverted commas
+Clara: ah boys.. this Jacob was so pressing and... I am with him right now
+Nicholas: what... omg he's a moron
+Paul: lol, are you joking? kkkkkk
+Clara: no, and now I don't know how to tell him that I don't feel anything for him
+Nicholas: why did you agree to become his girlfirend anyway?
+Clara: He told me that he loves me and bla bla bla
+Clara: I don't have anything against him but now I have a problem...","Clara's boyfriend Jacob is driving her crazy, she's with him now, but doesn't feel anything for him. She doesn't know how to tell him about it."
+114,Write a dialogue that match this summary,Write a dialogue that matches this summary: Victor and Stephanie will see Captain Marvel together when it comes out.,"Stephanie: have you heard about that new movie?
+Victor: which one?
+Stephanie: uhh... I can't remember the name
+Stephanie: the superhero one
+Victor: Steph... there are so many of those these days
+Victor: I literally saw three trailers the last time I went to the movies
+Stephanie: ok, ok, I mean the one with a female lead
+Victor: Captain Marvel?
+Stephanie: oh yeah, that's the title!
+Victor: how do you forget a title like that tbh
+Victor: lol
+Stephanie: uhhh I DON'T KNOW okay... 
+Stephanie: my memory isn't the greatest
+Victor: well... if you couldn't remember THAT... you might be right, haha
+Stephanie: ANYWAY
+Stephanie: what I wanted to say was
+Stephanie: I'm kind of really excited about this?? wow
+Victor: I guess it does sound like a cool idea?
+Victor: idk, I'll wait until I've seen it, hard to have an opinion before that
+Stephanie: you're saying that bc you're a guy
+Stephanie: there's so many male superheroes, but women?
+Stephanie: I mean ok there are SOME but... this is big
+Victor: yeah I suppose youre point of view would be different
+Victor: I get it
+Victor: wanna see it together when it comes out?
+Stephanie: I was hoping you'd ask!"
+115,Sum up the following dialogue,"Sum up the following dialogue: 
+Ivan: Hi Katie, are you free this evening?
+Katie: Mm, more or less? What did you have in mind?
+Ivan: I was thinking of going to see Winchester. You up for it?
+Katie: Oh, sure! You know I love horror films! They're never too long, so I can definitely make it. What time?
+Ivan: There's a screening at 7:45, does that sound okay to you?
+Katie: Yeah, no problem with that! Let's meet at the cinema at 7:30, then!","Kate and Ivan are going to see ""Winchester"" at 7:45, so they're meeting at the cinema at 7:30."
+116,Given the above dialogue write a summary,"Don: do you have a minute?
+Joyce: Sure, go ahead.
+Don: I have a problem with my browser. It doesn't seem to load certain pages like fb for example. It's just a blank page.
+Joyce: That's pretty basic, but have you tried turning it off and on again? ;)
+Don: yes, but it hasn't helped.
+Joyce: And have you tried it with the whole computer?
+Don: yeah, that too, but the problem is still there.
+Joyce: It's Firefox you're using, right?
+Don: correct.
+Joyce: You can try clicking on the drop-down menu in top right corner. Then go to settings, then safety & privacy where there's a section called something like ""cookies and web data"". You can try clearing the web cache - that usually helps. Let me know, if it works.
+Don: ok, thanks a lot.
+Given the above dialogue, write a summary.",Joyce helps Don with his browser that does not load.
+117,Write a dialogue that match this summary,Write a dialogue that matches this summary: Rachel will call Ross back in 5 minutes to talk about Tommy.,"Ross: Call me back please when you see this
+Rachel: I can't, I'm at a meeting
+Ross: When you can, it's about Tommy, school called
+Rachel: damn this kid, I'll call you in 5"
+118,Sum up the following dialogue,"Sum up the following dialogue: 
+Gemma: Forgot my keys :(
+Suze: Come by my office
+Gemma: okay thanks!
+Suze: no problem",Gemma will come by Suze's office as she forgot her keys.
+119,Summarize:,"Summarize: Jan: I just got a job at wally world!
+Dave: Ugh. Hate that place.
+Jan: Me too but it's a job!",Jan got a job at wally world. Dave and Jan both hate this place.
